@@ -1,0 +1,65 @@
+#!/usr/bin/env python3
+
+import datetime
+
+from optparse import OptionParser
+from xml.dom import minidom
+
+
+parser = OptionParser(usage = "%prog fitness-data-file")
+(options, args) = parser.parse_args()
+
+if len(args) < 1:
+    parser.error("Missing device type argument")
+
+print('<?xml version="1.0" encoding="UTF-8"?>')
+print('<kml xmlns="http://www.opengis.net/kml/2.2">')
+print('  <Document>')
+
+prevTime = None
+
+xmldoc = minidom.parse(args[0])
+itemlist = xmldoc.getElementsByTagName('datapoint')
+for s in itemlist:
+    if s.attributes['name'].value == "com.google.location.bounding_box":
+        startTime = datetime.datetime.strptime(
+                s.attributes['start'].value, "%Y-%m-%d %H:%M:%S")
+        endTime = datetime.datetime.strptime(
+                s.attributes['end'].value, "%Y-%m-%d %H:%M:%S")
+
+        if not prevTime or prevTime.date() != startTime.date():
+            if prevTime: print('    </Folder>')
+            print('    <Folder id="{}">'.format(startTime.date()))
+            print('      <name>{}</name>'.format(startTime.date()))
+        
+        prevTime = startTime
+
+        lat1 = None
+        lon1 = None
+        lat2 = None
+        lon2 = None
+        for f in s.getElementsByTagName('field'):
+            if f.attributes['name'].value == "low_latitude":
+                lat1 = float(f.attributes['value'].value)
+            elif f.attributes['name'].value == "low_longitude":
+                lon1 = float(f.attributes['value'].value)
+            elif f.attributes['name'].value == "high_latitude":
+                lat2 = float(f.attributes['value'].value)
+            elif f.attributes['name'].value == "high_longitude":
+                lon2 = float(f.attributes['value'].value)
+
+        assert lat1 and lon1 and lat2 and lon2
+
+        lat = (lat1 + lat2) / 2
+        lon = (lon1 + lon2) / 2
+
+        print('      <Placemark>')
+        print('        <name>{}</name>'.format(startTime))
+        print('        <Point>')
+        print('          <coordinates>{},{}</coordinates>'.format(lon, lat))
+        print('        </Point>')
+        print('      </Placemark>')
+
+print('    </Folder>')
+print('  </Document>')
+print('</kml>')

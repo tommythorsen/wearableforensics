@@ -1,0 +1,52 @@
+#!/usr/bin/env python3
+
+import os
+import subprocess
+import sys
+import time
+import zlib
+
+from optparse import OptionParser
+
+
+parser = OptionParser(usage = "%prog")
+
+parser.add_option("-i", "--input", dest="input",
+        help="Input backup file to use instead of pulling one from a device.")
+
+parser.add_option("-s", dest="device",
+        help="Specifies a device for adb to connect to")
+
+(options, args) = parser.parse_args()
+
+adb = ["adb"]
+if options.device:
+    adb = ["adb", "-s", options.device]
+
+out = "out_" + time.strftime("%Y%m%d_%H%M%S")
+
+
+if not os.path.exists(out): os.makedirs(out)
+
+if not options.input:
+    print(adb + ["backup", "-all", "-noapk", "-f", "{}/backup.ab".format(out)])
+    subprocess.call(adb + ["backup", "-all", "-noapk", "-f", "{}/backup.ab".format(out)])
+    options.input = "{}/backup.ab".format(out)
+
+f = open(options.input, "rb")
+f.read(24)
+
+o = open("{}/backup.tar".format(out), "wb")
+
+d = zlib.decompressobj()
+while True:
+    chunk = f.read(8192)
+    if chunk:
+        o.write(d.decompress(d.unconsumed_tail + chunk))
+    else:
+        break
+
+f.close()
+o.close()
+
+subprocess.call(["tar", "xvf", "{}/backup.tar".format(out), "-C", out])

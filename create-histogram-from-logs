@@ -1,0 +1,41 @@
+#!/usr/bin/env python3
+
+import datetime
+import matplotlib.pyplot as plt
+import re
+
+from optparse import OptionParser
+
+lineRegex = re.compile("""
+        ^
+        (?P<month>\d\d)-(?P<day>\d\d)
+        \s+
+        (?P<hour>\d\d):(?P<minute>\d\d):(?P<second>\d\d)
+        """, re.VERBOSE)
+
+parser = OptionParser(usage = "%prog log-files")
+(options, args) = parser.parse_args()
+
+x = list()
+
+for filename in args:
+    f = open(filename, "r")
+    for line in f:
+        match = lineRegex.match(line)
+        if match:
+            if match.group("month") == "01" and match.group("day") == "01" and \
+                    match.group("hour") == "01": continue
+            t = datetime.datetime(
+                    year = 2015,
+                    month = int(match.group("month")),
+                    day = int(match.group("day")),
+                    hour = int(match.group("hour")),
+                    minute = int(match.group("minute")))
+            x.append(t)
+
+    f.close()
+
+plt.hist(x, 100)
+plt.ylabel("events per minute")
+plt.xlabel("time")
+plt.show()

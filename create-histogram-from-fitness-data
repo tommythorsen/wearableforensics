@@ -1,0 +1,51 @@
+#!/usr/bin/env python3
+
+import datetime
+import matplotlib.pyplot as plt
+
+from optparse import OptionParser
+from xml.dom import minidom
+
+
+parser = OptionParser(usage = "%prog fitness-data-file")
+(options, args) = parser.parse_args()
+
+if len(args) < 1:
+    parser.error("Missing device type argument")
+
+x = list()
+y = list()
+
+xmldoc = minidom.parse(args[0])
+itemlist = xmldoc.getElementsByTagName('datapoint')
+for s in itemlist:
+    if s.attributes['name'].value == "com.google.step_count.delta":
+        if len(s.childNodes) == 0: continue
+        f = s.getElementsByTagName('field')[0]
+        if f.attributes['name'].value == "steps":
+            startTime = datetime.datetime.strptime(
+                    s.attributes['start'].value, "%Y-%m-%d %H:%M:%S")
+            endTime = datetime.datetime.strptime(
+                    s.attributes['end'].value, "%Y-%m-%d %H:%M:%S")
+            steps = int(f.attributes['value'].value)
+
+            duration = endTime - startTime
+            stepsPerMinute = steps / (duration.total_seconds() / 60)
+
+            x.append(startTime)
+            y.append(0)
+
+            x.append(startTime)
+            y.append(stepsPerMinute)
+
+            x.append(endTime)
+            y.append(stepsPerMinute)
+
+            x.append(endTime)
+            y.append(0)
+
+plt.fill(x, y, "b")
+plt.ylabel("steps per minute")
+plt.xlabel("time")
+plt.show()
+

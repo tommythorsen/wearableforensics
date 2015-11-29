@@ -1,0 +1,193 @@
+01-01 01:00:11.578 D/TelephonyManager(  203): No /proc/cmdline exception=java.io.FileNotFoundException: /proc/cmdline: open failed: EACCES (Permission denied)
+01-01 01:00:11.578 D/TelephonyManager(  203): /proc/cmdline=
+01-01 01:00:16.630 D/SubscriptionManager(  573): [getPhoneId]- fail
+01-01 01:00:16.630 D/TelephonyManager(  573): getTelephonyProperty: return propVal='null' phoneId=-1 property='gsm.current.phone-type' defaultVal='null' prop=
+01-01 01:00:16.630 D/TelephonyManager(  573): getTelephonyProperty: return propVal='null' phoneId=-1 property='ro.telephony.default_network' defaultVal='null' prop=
+01-01 01:00:18.531 D/TelephonyRegistry(  573): systemRunning register for intents
+01-01 01:00:18.712 D/TelephonyRegistry(  573): notifyCellLocationForSubscriber: subId=0 cellLocation=Bundle[{}]
+01-01 01:00:58.106 D/TelephonyManager( 1203): getSimOperatorNumeric(): default subId=-1
+01-01 01:00:58.106 D/SubscriptionManager( 1203): [getPhoneId]- fail
+01-01 01:00:58.106 D/TelephonyManager( 1203): getTelephonyProperty: return propVal='null' phoneId=-1 property='gsm.sim.operator.numeric' defaultVal='' prop=
+01-01 01:00:58.107 D/SubscriptionManager( 1203): [getPhoneId]- fail
+01-01 01:00:58.107 D/TelephonyManager( 1203): getTelephonyProperty: return propVal='null' phoneId=-1 property='gsm.sim.operator.alpha' defaultVal='' prop=
+01-01 01:00:58.107 D/SubscriptionManager( 1203): [getPhoneId]- fail
+01-01 01:00:58.107 D/TelephonyManager( 1203): getTelephonyProperty: return propVal='null' phoneId=-1 property='gsm.operator.numeric' defaultVal='' prop=
+01-01 01:00:58.107 D/SubscriptionManager( 1203): [getPhoneId]- fail
+01-01 01:00:58.107 D/TelephonyManager( 1203): getTelephonyProperty: return propVal='null' phoneId=-1 property='gsm.operator.alpha' defaultVal='' prop=
+11-09 19:44:26.983 D/TelephonyManager(  824): getSimOperatorNumeric(): default subId=-1
+11-09 19:44:26.983 D/SubscriptionManager(  824): [getPhoneId]- fail
+11-09 19:44:26.983 D/TelephonyManager(  824): getTelephonyProperty: return propVal='null' phoneId=-1 property='gsm.sim.operator.numeric' defaultVal='' prop=
+11-09 19:44:28.486 D/TelephonyManager(  824): getSimOperatorNumeric(): default subId=-1
+11-09 19:44:28.486 D/SubscriptionManager(  824): [getPhoneId]- fail
+11-09 19:44:28.486 D/TelephonyManager(  824): getTelephonyProperty: return propVal='null' phoneId=-1 property='gsm.sim.operator.numeric' defaultVal='' prop=
+11-09 19:44:28.929 D/TelephonyManager(  824): getSimOperatorNumeric(): default subId=-1
+11-09 19:44:28.929 D/SubscriptionManager(  824): [getPhoneId]- fail
+11-09 19:44:28.929 D/TelephonyManager(  824): getTelephonyProperty: return propVal='null' phoneId=-1 property='gsm.sim.operator.numeric' defaultVal='' prop=
+11-09 19:44:29.240 D/TelephonyManager(  824): getSimOperatorNumeric(): default subId=-1
+11-09 19:44:29.240 D/SubscriptionManager(  824): [getPhoneId]- fail
+11-09 19:44:29.240 D/TelephonyManager(  824): getTelephonyProperty: return propVal='null' phoneId=-1 property='gsm.sim.operator.numeric' defaultVal='' prop=
+11-09 19:44:29.561 D/TelephonyManager(  824): getSimOperatorNumeric(): default subId=-1
+11-09 19:44:29.561 D/SubscriptionManager(  824): [getPhoneId]- fail
+11-09 19:44:29.561 D/TelephonyManager(  824): getTelephonyProperty: return propVal='null' phoneId=-1 property='gsm.sim.operator.numeric' defaultVal='' prop=
+11-09 20:44:31.002 D/TelephonyManager(  824): getSimOperatorNumeric(): default subId=-1
+11-09 20:44:31.002 D/SubscriptionManager(  824): [getPhoneId]- fail
+11-09 20:44:31.002 D/TelephonyManager(  824): getTelephonyProperty: return propVal='null' phoneId=-1 property='gsm.sim.operator.numeric' defaultVal='' prop=
+11-09 20:44:32.046 D/TelephonyManager(  824): getSimOperatorNumeric(): default subId=-1
+11-09 20:44:32.046 D/SubscriptionManager(  824): [getPhoneId]- fail
+11-09 20:44:32.046 D/TelephonyManager(  824): getTelephonyProperty: return propVal='null' phoneId=-1 property='gsm.sim.operator.numeric' defaultVal='' prop=
+11-09 20:44:32.596 D/TelephonyManager(  824): getSimOperatorNumeric(): default subId=-1
+11-09 20:44:32.596 D/SubscriptionManager(  824): [getPhoneId]- fail
+11-09 20:44:32.596 D/TelephonyManager(  824): getTelephonyProperty: return propVal='null' phoneId=-1 property='gsm.sim.operator.numeric' defaultVal='' prop=
+11-09 21:45:11.923 D/TelephonyManager(  824): getSimOperatorNumeric(): default subId=-1
+11-09 21:45:11.924 D/SubscriptionManager(  824): [getPhoneId]- fail
+11-09 21:45:11.924 D/TelephonyManager(  824): getTelephonyProperty: return propVal='null' phoneId=-1 property='gsm.sim.operator.numeric' defaultVal='' prop=
+11-09 21:45:12.870 D/TelephonyManager(  824): getSimOperatorNumeric(): default subId=-1
+11-09 21:45:12.870 D/SubscriptionManager(  824): [getPhoneId]- fail
+11-09 21:45:12.870 D/TelephonyManager(  824): getTelephonyProperty: return propVal='null' phoneId=-1 property='gsm.sim.operator.numeric' defaultVal='' prop=
+11-09 21:45:13.354 D/TelephonyManager(  824): getSimOperatorNumeric(): default subId=-1
+11-09 21:45:13.354 D/SubscriptionManager(  824): [getPhoneId]- fail
+11-09 21:45:13.355 D/TelephonyManager(  824): getTelephonyProperty: return propVal='null' phoneId=-1 property='gsm.sim.operator.numeric' defaultVal='' prop=
+11-09 21:49:12.420 D/TelephonyManager(  824): getSimOperatorNumeric(): default subId=-1
+11-09 21:49:12.420 D/SubscriptionManager(  824): [getPhoneId]- fail
+11-09 21:49:12.420 D/TelephonyManager(  824): getTelephonyProperty: return propVal='null' phoneId=-1 property='gsm.sim.operator.numeric' defaultVal='' prop=
+11-09 21:49:12.727 D/TelephonyManager(  824): getSimOperatorNumeric(): default subId=-1
+11-09 21:49:12.727 D/SubscriptionManager(  824): [getPhoneId]- fail
+11-09 21:49:12.727 D/TelephonyManager(  824): getTelephonyProperty: return propVal='null' phoneId=-1 property='gsm.sim.operator.numeric' defaultVal='' prop=
+11-09 21:49:12.947 D/TelephonyManager(  824): getSimOperatorNumeric(): default subId=-1
+11-09 21:49:12.947 D/SubscriptionManager(  824): [getPhoneId]- fail
+11-09 21:49:12.947 D/TelephonyManager(  824): getTelephonyProperty: return propVal='null' phoneId=-1 property='gsm.sim.operator.numeric' defaultVal='' prop=
+11-09 21:49:13.146 D/TelephonyManager(  824): getSimOperatorNumeric(): default subId=-1
+11-09 21:49:13.146 D/SubscriptionManager(  824): [getPhoneId]- fail
+11-09 21:49:13.146 D/TelephonyManager(  824): getTelephonyProperty: return propVal='null' phoneId=-1 property='gsm.sim.operator.numeric' defaultVal='' prop=
+11-09 23:05:41.822 D/TelephonyManager(  824): getSimOperatorNumeric(): default subId=-1
+11-09 23:05:41.822 D/SubscriptionManager(  824): [getPhoneId]- fail
+11-09 23:05:41.822 D/TelephonyManager(  824): getTelephonyProperty: return propVal='null' phoneId=-1 property='gsm.sim.operator.numeric' defaultVal='' prop=
+11-09 23:05:42.422 D/TelephonyManager(  824): getSimOperatorNumeric(): default subId=-1
+11-09 23:05:42.422 D/SubscriptionManager(  824): [getPhoneId]- fail
+11-09 23:05:42.422 D/TelephonyManager(  824): getTelephonyProperty: return propVal='null' phoneId=-1 property='gsm.sim.operator.numeric' defaultVal='' prop=
+11-09 23:05:42.670 D/TelephonyManager(  824): getSimOperatorNumeric(): default subId=-1
+11-09 23:05:42.670 D/SubscriptionManager(  824): [getPhoneId]- fail
+11-09 23:05:42.670 D/TelephonyManager(  824): getTelephonyProperty: return propVal='null' phoneId=-1 property='gsm.sim.operator.numeric' defaultVal='' prop=
+11-09 23:49:21.705 D/TelephonyManager(  824): getSimOperatorNumeric(): default subId=-1
+11-09 23:49:21.705 D/SubscriptionManager(  824): [getPhoneId]- fail
+11-09 23:49:21.705 D/TelephonyManager(  824): getTelephonyProperty: return propVal='null' phoneId=-1 property='gsm.sim.operator.numeric' defaultVal='' prop=
+11-09 23:49:21.968 D/TelephonyManager(  824): getSimOperatorNumeric(): default subId=-1
+11-09 23:49:21.968 D/SubscriptionManager(  824): [getPhoneId]- fail
+11-09 23:49:21.968 D/TelephonyManager(  824): getTelephonyProperty: return propVal='null' phoneId=-1 property='gsm.sim.operator.numeric' defaultVal='' prop=
+11-09 23:49:22.170 D/TelephonyManager(  824): getSimOperatorNumeric(): default subId=-1
+11-09 23:49:22.170 D/SubscriptionManager(  824): [getPhoneId]- fail
+11-09 23:49:22.170 D/TelephonyManager(  824): getTelephonyProperty: return propVal='null' phoneId=-1 property='gsm.sim.operator.numeric' defaultVal='' prop=
+11-10 07:58:44.043 D/TelephonyManager(  824): getSimOperatorNumeric(): default subId=-1
+11-10 07:58:44.043 D/SubscriptionManager(  824): [getPhoneId]- fail
+11-10 07:58:44.044 D/TelephonyManager(  824): getTelephonyProperty: return propVal='null' phoneId=-1 property='gsm.sim.operator.numeric' defaultVal='' prop=
+11-10 07:58:46.141 D/TelephonyManager(  824): getSimOperatorNumeric(): default subId=-1
+11-10 07:58:46.141 D/SubscriptionManager(  824): [getPhoneId]- fail
+11-10 07:58:46.141 D/TelephonyManager(  824): getTelephonyProperty: return propVal='null' phoneId=-1 property='gsm.sim.operator.numeric' defaultVal='' prop=
+11-10 07:58:46.271 D/TelephonyManager(  824): getSimOperatorNumeric(): default subId=-1
+11-10 07:58:46.271 D/SubscriptionManager(  824): [getPhoneId]- fail
+11-10 07:58:46.271 D/TelephonyManager(  824): getTelephonyProperty: return propVal='null' phoneId=-1 property='gsm.sim.operator.numeric' defaultVal='' prop=
+11-10 08:58:47.475 D/TelephonyManager(  824): getSimOperatorNumeric(): default subId=-1
+11-10 08:58:47.475 D/SubscriptionManager(  824): [getPhoneId]- fail
+11-10 08:58:47.475 D/TelephonyManager(  824): getTelephonyProperty: return propVal='null' phoneId=-1 property='gsm.sim.operator.numeric' defaultVal='' prop=
+11-10 08:58:49.196 D/TelephonyManager(  824): getSimOperatorNumeric(): default subId=-1
+11-10 08:58:49.196 D/SubscriptionManager(  824): [getPhoneId]- fail
+11-10 08:58:49.196 D/TelephonyManager(  824): getTelephonyProperty: return propVal='null' phoneId=-1 property='gsm.sim.operator.numeric' defaultVal='' prop=
+11-10 08:58:49.713 D/TelephonyManager(  824): getSimOperatorNumeric(): default subId=-1
+11-10 08:58:49.713 D/SubscriptionManager(  824): [getPhoneId]- fail
+11-10 08:58:49.713 D/TelephonyManager(  824): getTelephonyProperty: return propVal='null' phoneId=-1 property='gsm.sim.operator.numeric' defaultVal='' prop=
+11-10 08:58:50.292 D/TelephonyManager(  824): getSimOperatorNumeric(): default subId=-1
+11-10 08:58:50.292 D/SubscriptionManager(  824): [getPhoneId]- fail
+11-10 08:58:50.292 D/TelephonyManager(  824): getTelephonyProperty: return propVal='null' phoneId=-1 property='gsm.sim.operator.numeric' defaultVal='' prop=
+11-10 10:00:01.125 D/TelephonyManager(  824): getSimOperatorNumeric(): default subId=-1
+11-10 10:00:01.125 D/SubscriptionManager(  824): [getPhoneId]- fail
+11-10 10:00:01.125 D/TelephonyManager(  824): getTelephonyProperty: return propVal='null' phoneId=-1 property='gsm.sim.operator.numeric' defaultVal='' prop=
+11-10 10:00:03.163 D/TelephonyManager(  824): getSimOperatorNumeric(): default subId=-1
+11-10 10:00:03.163 D/SubscriptionManager(  824): [getPhoneId]- fail
+11-10 10:00:03.164 D/TelephonyManager(  824): getTelephonyProperty: return propVal='null' phoneId=-1 property='gsm.sim.operator.numeric' defaultVal='' prop=
+11-10 10:00:04.446 D/TelephonyManager(  824): getSimOperatorNumeric(): default subId=-1
+11-10 10:00:04.446 D/SubscriptionManager(  824): [getPhoneId]- fail
+11-10 10:00:04.446 D/TelephonyManager(  824): getTelephonyProperty: return propVal='null' phoneId=-1 property='gsm.sim.operator.numeric' defaultVal='' prop=
+11-10 11:01:06.298 D/TelephonyManager(  824): getSimOperatorNumeric(): default subId=-1
+11-10 11:01:06.298 D/SubscriptionManager(  824): [getPhoneId]- fail
+11-10 11:01:06.298 D/TelephonyManager(  824): getTelephonyProperty: return propVal='null' phoneId=-1 property='gsm.sim.operator.numeric' defaultVal='' prop=
+11-10 11:01:07.599 D/TelephonyManager(  824): getSimOperatorNumeric(): default subId=-1
+11-10 11:01:07.599 D/SubscriptionManager(  824): [getPhoneId]- fail
+11-10 11:01:07.599 D/TelephonyManager(  824): getTelephonyProperty: return propVal='null' phoneId=-1 property='gsm.sim.operator.numeric' defaultVal='' prop=
+11-10 11:01:07.993 D/TelephonyManager(  824): getSimOperatorNumeric(): default subId=-1
+11-10 11:01:07.993 D/SubscriptionManager(  824): [getPhoneId]- fail
+11-10 11:01:07.993 D/TelephonyManager(  824): getTelephonyProperty: return propVal='null' phoneId=-1 property='gsm.sim.operator.numeric' defaultVal='' prop=
+11-10 12:01:11.586 D/TelephonyManager(  824): getSimOperatorNumeric(): default subId=-1
+11-10 12:01:11.586 D/SubscriptionManager(  824): [getPhoneId]- fail
+11-10 12:01:11.587 D/TelephonyManager(  824): getTelephonyProperty: return propVal='null' phoneId=-1 property='gsm.sim.operator.numeric' defaultVal='' prop=
+11-10 12:01:12.681 D/TelephonyManager(  824): getSimOperatorNumeric(): default subId=-1
+11-10 12:01:12.681 D/SubscriptionManager(  824): [getPhoneId]- fail
+11-10 12:01:12.681 D/TelephonyManager(  824): getTelephonyProperty: return propVal='null' phoneId=-1 property='gsm.sim.operator.numeric' defaultVal='' prop=
+11-10 12:01:13.071 D/TelephonyManager(  824): getSimOperatorNumeric(): default subId=-1
+11-10 12:01:13.071 D/SubscriptionManager(  824): [getPhoneId]- fail
+11-10 12:01:13.071 D/TelephonyManager(  824): getTelephonyProperty: return propVal='null' phoneId=-1 property='gsm.sim.operator.numeric' defaultVal='' prop=
+11-10 13:01:14.348 D/TelephonyManager(  824): getSimOperatorNumeric(): default subId=-1
+11-10 13:01:14.349 D/SubscriptionManager(  824): [getPhoneId]- fail
+11-10 13:01:14.349 D/TelephonyManager(  824): getTelephonyProperty: return propVal='null' phoneId=-1 property='gsm.sim.operator.numeric' defaultVal='' prop=
+11-10 13:01:15.587 D/TelephonyManager(  824): getSimOperatorNumeric(): default subId=-1
+11-10 13:01:15.587 D/SubscriptionManager(  824): [getPhoneId]- fail
+11-10 13:01:15.587 D/TelephonyManager(  824): getTelephonyProperty: return propVal='null' phoneId=-1 property='gsm.sim.operator.numeric' defaultVal='' prop=
+11-10 13:01:16.254 D/TelephonyManager(  824): getSimOperatorNumeric(): default subId=-1
+11-10 13:01:16.254 D/SubscriptionManager(  824): [getPhoneId]- fail
+11-10 13:01:16.254 D/TelephonyManager(  824): getTelephonyProperty: return propVal='null' phoneId=-1 property='gsm.sim.operator.numeric' defaultVal='' prop=
+11-10 14:01:19.356 D/TelephonyManager(  824): getSimOperatorNumeric(): default subId=-1
+11-10 14:01:19.356 D/SubscriptionManager(  824): [getPhoneId]- fail
+11-10 14:01:19.356 D/TelephonyManager(  824): getTelephonyProperty: return propVal='null' phoneId=-1 property='gsm.sim.operator.numeric' defaultVal='' prop=
+11-10 14:01:20.549 D/TelephonyManager(  824): getSimOperatorNumeric(): default subId=-1
+11-10 14:01:20.549 D/SubscriptionManager(  824): [getPhoneId]- fail
+11-10 14:01:20.549 D/TelephonyManager(  824): getTelephonyProperty: return propVal='null' phoneId=-1 property='gsm.sim.operator.numeric' defaultVal='' prop=
+11-10 14:01:20.948 D/TelephonyManager(  824): getSimOperatorNumeric(): default subId=-1
+11-10 14:01:20.949 D/SubscriptionManager(  824): [getPhoneId]- fail
+11-10 14:01:20.949 D/TelephonyManager(  824): getTelephonyProperty: return propVal='null' phoneId=-1 property='gsm.sim.operator.numeric' defaultVal='' prop=
+11-10 15:01:23.903 D/TelephonyManager(  824): getSimOperatorNumeric(): default subId=-1
+11-10 15:01:23.903 D/SubscriptionManager(  824): [getPhoneId]- fail
+11-10 15:01:23.903 D/TelephonyManager(  824): getTelephonyProperty: return propVal='null' phoneId=-1 property='gsm.sim.operator.numeric' defaultVal='' prop=
+11-10 15:01:25.648 D/TelephonyManager(  824): getSimOperatorNumeric(): default subId=-1
+11-10 15:01:25.648 D/SubscriptionManager(  824): [getPhoneId]- fail
+11-10 15:01:25.648 D/TelephonyManager(  824): getTelephonyProperty: return propVal='null' phoneId=-1 property='gsm.sim.operator.numeric' defaultVal='' prop=
+11-10 15:01:25.916 D/TelephonyManager(  824): getSimOperatorNumeric(): default subId=-1
+11-10 15:01:25.916 D/SubscriptionManager(  824): [getPhoneId]- fail
+11-10 15:01:25.916 D/TelephonyManager(  824): getTelephonyProperty: return propVal='null' phoneId=-1 property='gsm.sim.operator.numeric' defaultVal='' prop=
+11-10 16:01:28.352 D/TelephonyManager(  824): getSimOperatorNumeric(): default subId=-1
+11-10 16:01:28.352 D/SubscriptionManager(  824): [getPhoneId]- fail
+11-10 16:01:28.352 D/TelephonyManager(  824): getTelephonyProperty: return propVal='null' phoneId=-1 property='gsm.sim.operator.numeric' defaultVal='' prop=
+11-10 16:01:29.176 D/TelephonyManager(  824): getSimOperatorNumeric(): default subId=-1
+11-10 16:01:29.177 D/SubscriptionManager(  824): [getPhoneId]- fail
+11-10 16:01:29.177 D/TelephonyManager(  824): getTelephonyProperty: return propVal='null' phoneId=-1 property='gsm.sim.operator.numeric' defaultVal='' prop=
+11-10 16:01:29.459 D/TelephonyManager(  824): getSimOperatorNumeric(): default subId=-1
+11-10 16:01:29.459 D/SubscriptionManager(  824): [getPhoneId]- fail
+11-10 16:01:29.459 D/TelephonyManager(  824): getTelephonyProperty: return propVal='null' phoneId=-1 property='gsm.sim.operator.numeric' defaultVal='' prop=
+11-10 17:03:05.740 D/TelephonyManager(  824): getSimOperatorNumeric(): default subId=-1
+11-10 17:03:05.740 D/SubscriptionManager(  824): [getPhoneId]- fail
+11-10 17:03:05.740 D/TelephonyManager(  824): getTelephonyProperty: return propVal='null' phoneId=-1 property='gsm.sim.operator.numeric' defaultVal='' prop=
+11-10 17:03:06.622 D/TelephonyManager(  824): getSimOperatorNumeric(): default subId=-1
+11-10 17:03:06.622 D/SubscriptionManager(  824): [getPhoneId]- fail
+11-10 17:03:06.623 D/TelephonyManager(  824): getTelephonyProperty: return propVal='null' phoneId=-1 property='gsm.sim.operator.numeric' defaultVal='' prop=
+11-10 17:03:06.910 D/TelephonyManager(  824): getSimOperatorNumeric(): default subId=-1
+11-10 17:03:06.911 D/SubscriptionManager(  824): [getPhoneId]- fail
+11-10 17:03:06.911 D/TelephonyManager(  824): getTelephonyProperty: return propVal='null' phoneId=-1 property='gsm.sim.operator.numeric' defaultVal='' prop=
+11-10 17:03:07.223 D/TelephonyManager(  824): getSimOperatorNumeric(): default subId=-1
+11-10 17:03:07.223 D/SubscriptionManager(  824): [getPhoneId]- fail
+11-10 17:03:07.223 D/TelephonyManager(  824): getTelephonyProperty: return propVal='null' phoneId=-1 property='gsm.sim.operator.numeric' defaultVal='' prop=
+11-10 18:03:10.663 D/TelephonyManager(  824): getSimOperatorNumeric(): default subId=-1
+11-10 18:03:10.663 D/SubscriptionManager(  824): [getPhoneId]- fail
+11-10 18:03:10.663 D/TelephonyManager(  824): getTelephonyProperty: return propVal='null' phoneId=-1 property='gsm.sim.operator.numeric' defaultVal='' prop=
+11-10 18:03:11.183 D/TelephonyManager(  824): getSimOperatorNumeric(): default subId=-1
+11-10 18:03:11.183 D/SubscriptionManager(  824): [getPhoneId]- fail
+11-10 18:03:11.183 D/TelephonyManager(  824): getTelephonyProperty: return propVal='null' phoneId=-1 property='gsm.sim.operator.numeric' defaultVal='' prop=
+11-10 18:09:37.366 D/TelephonyManager(  824): getSimOperatorNumeric(): default subId=-1
+11-10 18:09:37.366 D/SubscriptionManager(  824): [getPhoneId]- fail
+11-10 18:09:37.366 D/TelephonyManager(  824): getTelephonyProperty: return propVal='null' phoneId=-1 property='gsm.sim.operator.numeric' defaultVal='' prop=
+11-10 18:09:38.279 D/TelephonyManager(  824): getSimOperatorNumeric(): default subId=-1
+11-10 18:09:38.280 D/SubscriptionManager(  824): [getPhoneId]- fail
+11-10 18:09:38.280 D/TelephonyManager(  824): getTelephonyProperty: return propVal='null' phoneId=-1 property='gsm.sim.operator.numeric' defaultVal='' prop=
+11-10 18:09:38.498 D/TelephonyManager(  824): getSimOperatorNumeric(): default subId=-1
+11-10 18:09:38.498 D/SubscriptionManager(  824): [getPhoneId]- fail
+11-10 18:09:38.498 D/TelephonyManager(  824): getTelephonyProperty: return propVal='null' phoneId=-1 property='gsm.sim.operator.numeric' defaultVal='' prop=
+11-10 18:09:38.765 D/TelephonyManager(  824): getSimOperatorNumeric(): default subId=-1
+11-10 18:09:38.765 D/SubscriptionManager(  824): [getPhoneId]- fail
+11-10 18:09:38.765 D/TelephonyManager(  824): getTelephonyProperty: return propVal='null' phoneId=-1 property='gsm.sim.operator.numeric' defaultVal='' prop=

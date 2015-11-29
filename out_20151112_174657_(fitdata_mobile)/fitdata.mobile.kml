@@ -1,0 +1,2093 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Folder id="2015-11-07">
+      <name>2015-11-07</name>
+      <Placemark>
+        <name>2015-11-07 15:53:37</name>
+        <Point>
+          <coordinates>9.140518,58.901726</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-07 15:59:08</name>
+        <Point>
+          <coordinates>9.140518,58.901726</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-07 17:15:10</name>
+        <Point>
+          <coordinates>9.140629,58.90161</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-07 18:15:09</name>
+        <Point>
+          <coordinates>9.140448,58.9018035</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder id="2015-11-08">
+      <name>2015-11-08</name>
+      <Placemark>
+        <name>2015-11-08 12:00:40</name>
+        <Point>
+          <coordinates>9.140382,58.901867</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-08 13:05:44</name>
+        <Point>
+          <coordinates>9.140383,58.901867</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-08 13:19:53</name>
+        <Point>
+          <coordinates>9.140387,58.901867</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-08 13:40:30</name>
+        <Point>
+          <coordinates>9.140632,58.90161</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-08 15:12:39</name>
+        <Point>
+          <coordinates>10.348602,59.292507</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-08 15:47:00</name>
+        <Point>
+          <coordinates>10.379928,59.371304</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-08 15:48:10</name>
+        <Point>
+          <coordinates>10.373438,59.39061</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-08 17:14:13</name>
+        <Point>
+          <coordinates>10.76853,59.946533</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-08 17:19:15</name>
+        <Point>
+          <coordinates>10.7687785,59.946514</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-08 17:29:30</name>
+        <Point>
+          <coordinates>10.76888525,59.9464835</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-08 17:39:37</name>
+        <Point>
+          <coordinates>10.768729,59.946529999999996</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-08 17:50:25</name>
+        <Point>
+          <coordinates>10.768753,59.9465285</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-08 18:01:00</name>
+        <Point>
+          <coordinates>10.768858999999999,59.946481500000004</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-08 18:12:30</name>
+        <Point>
+          <coordinates>10.768525,59.946594</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-08 18:20:53</name>
+        <Point>
+          <coordinates>10.768436,59.946606</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-08 18:36:09</name>
+        <Point>
+          <coordinates>10.768801499999999,59.9465465</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-08 18:39:27</name>
+        <Point>
+          <coordinates>10.7684675,59.9466125</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-08 18:54:58</name>
+        <Point>
+          <coordinates>10.768516,59.947437</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-08 19:00:02</name>
+        <Point>
+          <coordinates>10.768419,59.94666</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-08 20:19:42</name>
+        <Point>
+          <coordinates>10.7685715,59.9465315</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-08 20:31:35</name>
+        <Point>
+          <coordinates>10.7686745,59.94648</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-08 20:41:41</name>
+        <Point>
+          <coordinates>10.768456,59.946545</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-08 20:51:41</name>
+        <Point>
+          <coordinates>10.768844,59.946423</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-08 21:00:00</name>
+        <Point>
+          <coordinates>10.768587,59.946485499999994</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-08 21:09:57</name>
+        <Point>
+          <coordinates>10.768459,59.946526</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-08 21:17:52</name>
+        <Point>
+          <coordinates>10.7685985,59.94652000000001</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-08 21:27:57</name>
+        <Point>
+          <coordinates>10.768757,59.9464915</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-08 21:38:04</name>
+        <Point>
+          <coordinates>10.768664999999999,59.946514</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-08 21:48:47</name>
+        <Point>
+          <coordinates>10.768684,59.946509000000006</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-08 21:58:49</name>
+        <Point>
+          <coordinates>10.768990500000001,59.9464665</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-08 22:09:11</name>
+        <Point>
+          <coordinates>10.769079999999999,59.9465275</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-08 22:23:35</name>
+        <Point>
+          <coordinates>10.768725,59.946487</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-08 22:28:36</name>
+        <Point>
+          <coordinates>10.768689,59.9465315</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-08 22:46:11</name>
+        <Point>
+          <coordinates>10.7683,59.94664</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-08 22:51:08</name>
+        <Point>
+          <coordinates>10.7683515,59.946657</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-08 23:37:45</name>
+        <Point>
+          <coordinates>10.76853,59.94668</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-08 23:42:37</name>
+        <Point>
+          <coordinates>10.76853,59.94668</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-08 23:47:53</name>
+        <Point>
+          <coordinates>10.7684,59.9467</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-08 23:58:05</name>
+        <Point>
+          <coordinates>10.768312,59.94665</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder id="2015-11-09">
+      <name>2015-11-09</name>
+      <Placemark>
+        <name>2015-11-09 00:14:02</name>
+        <Point>
+          <coordinates>10.768418,59.946682</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-09 00:18:54</name>
+        <Point>
+          <coordinates>10.768418,59.946682</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-09 01:11:02</name>
+        <Point>
+          <coordinates>10.768279,59.947067</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-09 01:21:00</name>
+        <Point>
+          <coordinates>10.768449,59.946686</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-09 01:52:17</name>
+        <Point>
+          <coordinates>10.768432,59.94664</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-09 03:04:39</name>
+        <Point>
+          <coordinates>10.768433,59.94669</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-09 03:10:10</name>
+        <Point>
+          <coordinates>10.768433,59.94669</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-09 03:30:18</name>
+        <Point>
+          <coordinates>10.768392,59.946648</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-09 04:21:52</name>
+        <Point>
+          <coordinates>10.768462,59.946693</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-09 04:31:48</name>
+        <Point>
+          <coordinates>10.7683975,59.946681999999996</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-09 04:42:28</name>
+        <Point>
+          <coordinates>10.7683915,59.94667</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-09 04:52:53</name>
+        <Point>
+          <coordinates>10.768471,59.946693</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-09 05:03:07</name>
+        <Point>
+          <coordinates>10.768355,59.94667</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-09 05:08:00</name>
+        <Point>
+          <coordinates>10.768355,59.94667</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-09 05:23:51</name>
+        <Point>
+          <coordinates>10.768449,59.94666</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-09 05:28:48</name>
+        <Point>
+          <coordinates>10.768449,59.94666</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-09 05:44:09</name>
+        <Point>
+          <coordinates>10.768357,59.946667</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-09 05:48:54</name>
+        <Point>
+          <coordinates>10.768357,59.946667</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-09 06:26:54</name>
+        <Point>
+          <coordinates>10.768442,59.946644</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-09 06:31:50</name>
+        <Point>
+          <coordinates>10.768442,59.946644</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-09 06:42:32</name>
+        <Point>
+          <coordinates>10.768348,59.946663</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-09 06:53:07</name>
+        <Point>
+          <coordinates>10.768479,59.94668</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-09 06:58:03</name>
+        <Point>
+          <coordinates>10.7684055,59.946683</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-09 07:08:03</name>
+        <Point>
+          <coordinates>10.768396,59.94668</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-09 07:18:35</name>
+        <Point>
+          <coordinates>10.76846,59.946674</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-09 07:30:44</name>
+        <Point>
+          <coordinates>10.768382,59.946648</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-09 07:42:34</name>
+        <Point>
+          <coordinates>10.7684555,59.946598</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-09 07:53:00</name>
+        <Point>
+          <coordinates>10.7694,59.946465</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-09 07:59:43</name>
+        <Point>
+          <coordinates>10.7686455,59.946517</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-09 08:15:56</name>
+        <Point>
+          <coordinates>10.760398,59.945423</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-09 08:20:00</name>
+        <Point>
+          <coordinates>10.775998,59.945763</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-09 08:30:15</name>
+        <Point>
+          <coordinates>10.764616499999999,59.9562015</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-09 08:39:19</name>
+        <Point>
+          <coordinates>10.7646295,59.956257</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-09 08:57:21</name>
+        <Point>
+          <coordinates>10.764617,59.956284</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-09 09:07:23</name>
+        <Point>
+          <coordinates>10.764621,59.956238</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-09 09:31:04</name>
+        <Point>
+          <coordinates>10.764587,59.956215</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-09 09:55:00</name>
+        <Point>
+          <coordinates>10.764629,59.956264</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-09 11:37:42</name>
+        <Point>
+          <coordinates>10.7646265,59.956154</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-09 11:42:36</name>
+        <Point>
+          <coordinates>10.764626750000001,59.956215</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-09 11:55:18</name>
+        <Point>
+          <coordinates>10.764588,59.95622</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-09 11:58:10</name>
+        <Point>
+          <coordinates>10.764761499999999,59.955937</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-09 12:07:56</name>
+        <Point>
+          <coordinates>10.76489,59.95555</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-09 12:20:06</name>
+        <Point>
+          <coordinates>10.764903,59.955597</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-09 12:30:13</name>
+        <Point>
+          <coordinates>10.764906,59.955612</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-09 12:42:43</name>
+        <Point>
+          <coordinates>10.764834,59.95465</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-09 12:47:51</name>
+        <Point>
+          <coordinates>10.764621,59.95626</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-09 15:41:04</name>
+        <Point>
+          <coordinates>10.764621,59.9562035</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-09 15:51:12</name>
+        <Point>
+          <coordinates>10.764628,59.956253</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-09 16:26:29</name>
+        <Point>
+          <coordinates>10.768441,59.946647999999996</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-09 16:31:59</name>
+        <Point>
+          <coordinates>10.76844,59.94669</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-09 16:41:50</name>
+        <Point>
+          <coordinates>10.7683735,59.946636</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-09 18:26:38</name>
+        <Point>
+          <coordinates>10.768429,59.946674</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-09 18:29:24</name>
+        <Point>
+          <coordinates>10.768393,59.946657</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-09 18:40:49</name>
+        <Point>
+          <coordinates>10.7683915,59.946664999999996</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-09 18:51:47</name>
+        <Point>
+          <coordinates>10.76856175,59.94655</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-09 19:02:20</name>
+        <Point>
+          <coordinates>10.769535,59.94638</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-09 19:08:21</name>
+        <Point>
+          <coordinates>10.7683325,59.94662</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-09 19:27:28</name>
+        <Point>
+          <coordinates>10.769443,59.946335</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-09 19:32:25</name>
+        <Point>
+          <coordinates>10.7693485,59.9463325</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-09 19:40:30</name>
+        <Point>
+          <coordinates>10.7695285,59.9466865</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-09 19:50:00</name>
+        <Point>
+          <coordinates>10.767176,59.948544</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-09 20:16:01</name>
+        <Point>
+          <coordinates>10.768724,59.946465</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-09 20:18:26</name>
+        <Point>
+          <coordinates>10.768875,59.946498500000004</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-09 20:30:12</name>
+        <Point>
+          <coordinates>10.768566,59.946537</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-09 20:40:37</name>
+        <Point>
+          <coordinates>10.769364,59.946316</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-09 20:53:21</name>
+        <Point>
+          <coordinates>10.768694,59.94652</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-09 21:03:19</name>
+        <Point>
+          <coordinates>10.768843,59.94655</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-09 21:08:11</name>
+        <Point>
+          <coordinates>10.768831500000001,59.9465385</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-09 21:19:01</name>
+        <Point>
+          <coordinates>10.768663499999999,59.9465335</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-09 21:32:18</name>
+        <Point>
+          <coordinates>10.7690175,59.9464665</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-09 21:46:46</name>
+        <Point>
+          <coordinates>10.7688555,59.946476</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-09 21:52:23</name>
+        <Point>
+          <coordinates>10.7692865,59.946417999999994</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-09 22:01:29</name>
+        <Point>
+          <coordinates>10.7687275,59.946540999999996</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-09 22:10:53</name>
+        <Point>
+          <coordinates>10.769017,59.9464745</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-09 22:21:27</name>
+        <Point>
+          <coordinates>10.768876500000001,59.946505</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-09 22:32:51</name>
+        <Point>
+          <coordinates>10.768640000000001,59.946567</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-09 22:47:18</name>
+        <Point>
+          <coordinates>10.768356,59.946636</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-09 22:52:24</name>
+        <Point>
+          <coordinates>10.7688795,59.946457</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-09 22:59:39</name>
+        <Point>
+          <coordinates>10.768596,59.94659</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-09 23:12:50</name>
+        <Point>
+          <coordinates>10.768446,59.946564</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-09 23:18:11</name>
+        <Point>
+          <coordinates>10.7685545,59.946573</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-09 23:28:23</name>
+        <Point>
+          <coordinates>10.768459,59.94677900000001</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-09 23:39:50</name>
+        <Point>
+          <coordinates>10.768447,59.946951</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder id="2015-11-10">
+      <name>2015-11-10</name>
+      <Placemark>
+        <name>2015-11-10 00:00:25</name>
+        <Point>
+          <coordinates>10.7686675,59.946953</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-10 00:20:21</name>
+        <Point>
+          <coordinates>10.768448,59.94663</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-10 00:40:30</name>
+        <Point>
+          <coordinates>10.768457,59.946674</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-10 01:00:49</name>
+        <Point>
+          <coordinates>10.768391,59.94664</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-10 01:21:43</name>
+        <Point>
+          <coordinates>10.768493,59.946667</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-10 01:42:17</name>
+        <Point>
+          <coordinates>10.7683935,59.946663</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-10 01:52:27</name>
+        <Point>
+          <coordinates>10.7685635,59.9467825</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-10 02:02:28</name>
+        <Point>
+          <coordinates>10.768472,59.9466535</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-10 02:17:29</name>
+        <Point>
+          <coordinates>10.768407,59.946667</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-10 02:43:13</name>
+        <Point>
+          <coordinates>10.76849,59.946697</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-10 02:48:13</name>
+        <Point>
+          <coordinates>10.768402,59.946655</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-10 03:03:21</name>
+        <Point>
+          <coordinates>10.768497,59.94667</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-10 03:08:22</name>
+        <Point>
+          <coordinates>10.768423,59.94664</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-10 03:18:26</name>
+        <Point>
+          <coordinates>10.768517,59.94664</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-10 03:28:27</name>
+        <Point>
+          <coordinates>10.768349,59.946667</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-10 03:38:53</name>
+        <Point>
+          <coordinates>10.7683055,59.9468285</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-10 03:54:06</name>
+        <Point>
+          <coordinates>10.768563,59.9472715</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-10 03:59:02</name>
+        <Point>
+          <coordinates>10.7684,59.94666</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-10 04:19:52</name>
+        <Point>
+          <coordinates>10.768466,59.9466745</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-10 04:40:41</name>
+        <Point>
+          <coordinates>10.7686505,59.947217</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-10 04:51:22</name>
+        <Point>
+          <coordinates>10.768498000000001,59.946676499999995</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-10 05:52:16</name>
+        <Point>
+          <coordinates>10.7689065,59.947193</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-10 06:22:48</name>
+        <Point>
+          <coordinates>10.769489499999999,59.947525999999996</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-10 06:28:05</name>
+        <Point>
+          <coordinates>10.768352,59.9472075</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-10 06:38:06</name>
+        <Point>
+          <coordinates>10.768451,59.94667</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-10 06:58:49</name>
+        <Point>
+          <coordinates>10.768270000000001,59.947088</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-10 07:14:22</name>
+        <Point>
+          <coordinates>10.768512,59.94666</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-10 07:24:23</name>
+        <Point>
+          <coordinates>10.768422,59.94665</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-10 07:57:40</name>
+        <Point>
+          <coordinates>10.768443,59.946697</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-10 08:02:44</name>
+        <Point>
+          <coordinates>10.7691415,59.946352</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-10 08:08:42</name>
+        <Point>
+          <coordinates>10.7690115,59.946459</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-10 08:20:00</name>
+        <Point>
+          <coordinates>10.768715499999999,59.946704499999996</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-10 08:35:36</name>
+        <Point>
+          <coordinates>10.76614,59.954258</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-10 08:40:30</name>
+        <Point>
+          <coordinates>10.76465,59.956446</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-10 09:18:05</name>
+        <Point>
+          <coordinates>10.76457325,59.956215</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-10 09:30:07</name>
+        <Point>
+          <coordinates>10.764561,59.956225</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-10 09:50:06</name>
+        <Point>
+          <coordinates>10.764617,59.95625</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-10 10:06:03</name>
+        <Point>
+          <coordinates>10.764836,59.955303</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-10 10:11:20</name>
+        <Point>
+          <coordinates>10.764836,59.955303</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-10 10:47:29</name>
+        <Point>
+          <coordinates>10.764789,59.95524</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-10 10:52:36</name>
+        <Point>
+          <coordinates>10.764698,59.9556365</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-10 10:58:43</name>
+        <Point>
+          <coordinates>10.764618500000001,59.956259</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-10 11:58:58</name>
+        <Point>
+          <coordinates>10.764776000000001,59.9559325</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-10 12:09:22</name>
+        <Point>
+          <coordinates>10.7649075,59.955606</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-10 12:21:16</name>
+        <Point>
+          <coordinates>10.7648405,59.9553715</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-10 12:35:00</name>
+        <Point>
+          <coordinates>10.764823,59.955296</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-10 12:40:30</name>
+        <Point>
+          <coordinates>10.764837499999999,59.955055</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-10 12:50:50</name>
+        <Point>
+          <coordinates>10.7648075,59.9549825</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-10 13:01:45</name>
+        <Point>
+          <coordinates>10.764628,59.9562375</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-10 14:42:49</name>
+        <Point>
+          <coordinates>10.764591,59.956207</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-10 14:52:03</name>
+        <Point>
+          <coordinates>10.764617,59.956264</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-10 16:04:58</name>
+        <Point>
+          <coordinates>10.764832,59.9561125</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-10 16:24:32</name>
+        <Point>
+          <coordinates>10.768459499999999,59.9465905</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-10 16:32:45</name>
+        <Point>
+          <coordinates>10.76891225,59.946461</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-10 16:41:10</name>
+        <Point>
+          <coordinates>10.7691235,59.9464475</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-10 16:51:12</name>
+        <Point>
+          <coordinates>10.768476,59.946557999999996</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-10 17:01:46</name>
+        <Point>
+          <coordinates>10.768781,59.946528</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-10 17:12:03</name>
+        <Point>
+          <coordinates>10.768687,59.946556</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-10 17:22:13</name>
+        <Point>
+          <coordinates>10.7686475,59.946563</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-10 17:32:15</name>
+        <Point>
+          <coordinates>10.768768999999999,59.94649</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-10 17:42:38</name>
+        <Point>
+          <coordinates>10.769454,59.946343</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-10 17:51:38</name>
+        <Point>
+          <coordinates>10.768819,59.946473999999995</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-10 18:02:37</name>
+        <Point>
+          <coordinates>10.768948,59.9465045</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-10 18:12:43</name>
+        <Point>
+          <coordinates>10.7688125,59.946518</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-10 18:23:08</name>
+        <Point>
+          <coordinates>10.768691,59.94653</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-10 18:33:09</name>
+        <Point>
+          <coordinates>10.768721,59.9465085</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-10 18:48:12</name>
+        <Point>
+          <coordinates>10.769295499999998,59.946291</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-10 18:58:39</name>
+        <Point>
+          <coordinates>10.7688715,59.946418</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-10 19:08:40</name>
+        <Point>
+          <coordinates>10.76906425,59.946470500000004</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-10 19:18:42</name>
+        <Point>
+          <coordinates>10.769171,59.946395</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-10 19:29:05</name>
+        <Point>
+          <coordinates>10.769400000000001,59.946365</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-10 19:39:24</name>
+        <Point>
+          <coordinates>10.769428999999999,59.9463775</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-10 19:49:43</name>
+        <Point>
+          <coordinates>10.769008,59.9464275</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-10 20:04:42</name>
+        <Point>
+          <coordinates>10.768734,59.946533</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-10 20:09:32</name>
+        <Point>
+          <coordinates>10.768394,59.94667</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-10 20:20:00</name>
+        <Point>
+          <coordinates>10.7680585,59.946799999999996</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-10 20:40:15</name>
+        <Point>
+          <coordinates>10.76836,59.946667</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-10 20:50:18</name>
+        <Point>
+          <coordinates>10.768472,59.946663</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-10 21:00:32</name>
+        <Point>
+          <coordinates>10.7686745,59.9463085</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-10 21:38:00</name>
+        <Point>
+          <coordinates>10.7687065,59.946516</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-10 21:48:10</name>
+        <Point>
+          <coordinates>10.76887,59.946428499999996</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-10 21:58:10</name>
+        <Point>
+          <coordinates>10.768831500000001,59.946476000000004</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-10 22:10:17</name>
+        <Point>
+          <coordinates>10.76871025,59.946499</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-10 22:19:12</name>
+        <Point>
+          <coordinates>10.768531,59.946594</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-10 22:34:50</name>
+        <Point>
+          <coordinates>10.769456,59.946323</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-10 22:42:37</name>
+        <Point>
+          <coordinates>10.768538,59.946545</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-10 22:48:16</name>
+        <Point>
+          <coordinates>10.769002,59.94642</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-10 22:58:01</name>
+        <Point>
+          <coordinates>10.7690095,59.94640750000001</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-10 23:09:19</name>
+        <Point>
+          <coordinates>10.769003,59.9463715</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-10 23:19:10</name>
+        <Point>
+          <coordinates>10.769279000000001,59.946405</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-10 23:29:20</name>
+        <Point>
+          <coordinates>10.769152,59.9464205</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-10 23:40:14</name>
+        <Point>
+          <coordinates>10.769131999999999,59.946431000000004</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-10 23:50:05</name>
+        <Point>
+          <coordinates>10.76943575,59.946407</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-10 23:59:00</name>
+        <Point>
+          <coordinates>10.768473,59.946693</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder id="2015-11-11">
+      <name>2015-11-11</name>
+      <Placemark>
+        <name>2015-11-11 00:09:01</name>
+        <Point>
+          <coordinates>10.768378,59.94668</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-11 00:34:47</name>
+        <Point>
+          <coordinates>10.76811075,59.9469605</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-11 02:43:47</name>
+        <Point>
+          <coordinates>10.7683,59.946663</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-11 02:48:54</name>
+        <Point>
+          <coordinates>10.768801,59.946556</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-11 03:00:23</name>
+        <Point>
+          <coordinates>10.768403,59.9468785</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-11 03:12:04</name>
+        <Point>
+          <coordinates>10.768372,59.946663</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-11 03:32:42</name>
+        <Point>
+          <coordinates>10.768463,59.94667</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-11 03:42:40</name>
+        <Point>
+          <coordinates>10.768357,59.94664</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-11 03:47:56</name>
+        <Point>
+          <coordinates>10.768442,59.946674</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-11 04:53:49</name>
+        <Point>
+          <coordinates>10.76832,59.94668</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-11 04:58:45</name>
+        <Point>
+          <coordinates>10.7683775,59.946683</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-11 06:04:32</name>
+        <Point>
+          <coordinates>10.768332,59.946663</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-11 06:09:29</name>
+        <Point>
+          <coordinates>10.768398999999999,59.9466665</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-11 06:19:43</name>
+        <Point>
+          <coordinates>10.76833,59.94666</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-11 06:29:52</name>
+        <Point>
+          <coordinates>10.768457,59.94667</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-11 07:00:08</name>
+        <Point>
+          <coordinates>10.768312,59.94668</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-11 07:10:15</name>
+        <Point>
+          <coordinates>10.768415,59.94667</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-11 07:50:27</name>
+        <Point>
+          <coordinates>10.769376,59.946358</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-11 08:00:36</name>
+        <Point>
+          <coordinates>10.7689765,59.9465315</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-11 08:11:27</name>
+        <Point>
+          <coordinates>10.7684685,59.94674</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-11 08:34:09</name>
+        <Point>
+          <coordinates>10.764912,59.955257</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-11 08:39:22</name>
+        <Point>
+          <coordinates>10.764645,59.956257</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-11 08:59:55</name>
+        <Point>
+          <coordinates>10.7645625,59.955061</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-11 09:07:58</name>
+        <Point>
+          <coordinates>10.764541,59.955097</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-11 09:29:05</name>
+        <Point>
+          <coordinates>10.7647515,59.955465000000004</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-11 09:39:11</name>
+        <Point>
+          <coordinates>10.7648635,59.956011000000004</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-11 09:49:11</name>
+        <Point>
+          <coordinates>10.7646985,59.955332999999996</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-11 10:00:45</name>
+        <Point>
+          <coordinates>10.7646195,59.9562535</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-11 11:12:23</name>
+        <Point>
+          <coordinates>10.764619,59.956238</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-11 12:21:40</name>
+        <Point>
+          <coordinates>10.76489,59.955544</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-11 12:32:16</name>
+        <Point>
+          <coordinates>10.764899,59.955564499999994</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-11 12:42:16</name>
+        <Point>
+          <coordinates>10.764869,59.9553795</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-11 12:57:04</name>
+        <Point>
+          <coordinates>10.764833,59.955006</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-11 13:02:15</name>
+        <Point>
+          <coordinates>10.764574,59.95623</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-11 13:29:07</name>
+        <Point>
+          <coordinates>10.764683,59.956223</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-11 13:38:42</name>
+        <Point>
+          <coordinates>10.764632,59.95627</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-11 13:53:06</name>
+        <Point>
+          <coordinates>10.764628,59.95626</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-11 13:58:04</name>
+        <Point>
+          <coordinates>10.7646115,59.956188</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-11 15:20:42</name>
+        <Point>
+          <coordinates>10.763244,59.955883</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-11 15:48:26</name>
+        <Point>
+          <coordinates>10.7536715,59.9173685</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-11 16:10:21</name>
+        <Point>
+          <coordinates>10.7601145,59.944675000000004</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-11 16:32:17</name>
+        <Point>
+          <coordinates>10.769094500000001,59.9463915</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-11 16:50:49</name>
+        <Point>
+          <coordinates>10.768952,59.94645</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-11 17:00:59</name>
+        <Point>
+          <coordinates>10.769344499999999,59.946501</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-11 17:12:24</name>
+        <Point>
+          <coordinates>10.768933,59.9464815</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-11 17:22:30</name>
+        <Point>
+          <coordinates>10.768942,59.946507</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-11 17:27:54</name>
+        <Point>
+          <coordinates>10.7688705,59.9464875</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-11 17:37:55</name>
+        <Point>
+          <coordinates>10.7691055,59.94645</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-11 17:48:25</name>
+        <Point>
+          <coordinates>10.769111,59.946476</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-11 17:58:23</name>
+        <Point>
+          <coordinates>10.7690345,59.946453500000004</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-11 18:08:29</name>
+        <Point>
+          <coordinates>10.768437,59.94668</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-11 18:38:37</name>
+        <Point>
+          <coordinates>10.768399500000001,59.946661</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-11 19:03:07</name>
+        <Point>
+          <coordinates>10.768476,59.946648</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-11 19:18:09</name>
+        <Point>
+          <coordinates>10.76849,59.94671</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-11 19:28:10</name>
+        <Point>
+          <coordinates>10.768476,59.946648</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-11 19:48:20</name>
+        <Point>
+          <coordinates>10.7683525,59.946636</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-11 19:58:21</name>
+        <Point>
+          <coordinates>10.768429,59.94667</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-11 20:08:20</name>
+        <Point>
+          <coordinates>10.7686835,59.9465275</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-11 20:22:16</name>
+        <Point>
+          <coordinates>10.768908249999999,59.946483</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-11 20:32:21</name>
+        <Point>
+          <coordinates>10.7692335,59.946430500000005</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-11 20:43:07</name>
+        <Point>
+          <coordinates>10.769428,59.946342</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-11 20:48:21</name>
+        <Point>
+          <coordinates>10.7687685,59.94647</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-11 20:58:22</name>
+        <Point>
+          <coordinates>10.769407000000001,59.94642</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-11 21:09:23</name>
+        <Point>
+          <coordinates>10.76895975,59.946473499999996</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-11 21:19:46</name>
+        <Point>
+          <coordinates>10.769032,59.946435</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-11 21:30:51</name>
+        <Point>
+          <coordinates>10.768818,59.946484</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-11 21:41:22</name>
+        <Point>
+          <coordinates>10.768907,59.946528</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-11 21:51:22</name>
+        <Point>
+          <coordinates>10.769362000000001,59.946402500000005</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-11 22:01:25</name>
+        <Point>
+          <coordinates>10.769141000000001,59.946408000000005</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-11 22:12:00</name>
+        <Point>
+          <coordinates>10.7689845,59.9464</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-11 22:22:01</name>
+        <Point>
+          <coordinates>10.769177,59.9464</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-11 22:29:56</name>
+        <Point>
+          <coordinates>10.769451,59.946404</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-11 22:39:31</name>
+        <Point>
+          <coordinates>10.7687805,59.946505</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-11 22:52:43</name>
+        <Point>
+          <coordinates>10.768813,59.946568</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-11 22:58:15</name>
+        <Point>
+          <coordinates>10.76872975,59.946539</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-11 23:09:12</name>
+        <Point>
+          <coordinates>10.769032,59.946437</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-11 23:19:21</name>
+        <Point>
+          <coordinates>10.768717500000001,59.9465285</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-11 23:29:21</name>
+        <Point>
+          <coordinates>10.7687655,59.9465365</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-11 23:42:00</name>
+        <Point>
+          <coordinates>10.768651,59.946564</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-11 23:52:29</name>
+        <Point>
+          <coordinates>10.768811,59.946472</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder id="2015-11-12">
+      <name>2015-11-12</name>
+      <Placemark>
+        <name>2015-11-12 00:02:30</name>
+        <Point>
+          <coordinates>10.768365,59.94667</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-12 00:27:41</name>
+        <Point>
+          <coordinates>10.768455,59.94667</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-12 00:32:38</name>
+        <Point>
+          <coordinates>10.768455,59.94667</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-12 00:47:50</name>
+        <Point>
+          <coordinates>10.768356,59.94667</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-12 00:53:03</name>
+        <Point>
+          <coordinates>10.768356,59.94667</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-12 00:58:08</name>
+        <Point>
+          <coordinates>10.768457,59.946674</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-12 02:13:26</name>
+        <Point>
+          <coordinates>10.768366,59.94667</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-12 02:18:23</name>
+        <Point>
+          <coordinates>10.768366,59.94667</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-12 02:49:26</name>
+        <Point>
+          <coordinates>10.768481,59.946663</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-12 03:15:28</name>
+        <Point>
+          <coordinates>10.768525,59.946705</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-12 03:20:24</name>
+        <Point>
+          <coordinates>10.768487,59.9466935</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-12 04:41:13</name>
+        <Point>
+          <coordinates>10.768352,59.946697</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-12 05:28:17</name>
+        <Point>
+          <coordinates>10.768416,59.946667</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-12 07:44:46</name>
+        <Point>
+          <coordinates>10.768436,59.94661</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-12 07:48:20</name>
+        <Point>
+          <coordinates>10.768722,59.9464375</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-12 07:59:11</name>
+        <Point>
+          <coordinates>10.76877025,59.94645</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-12 08:15:07</name>
+        <Point>
+          <coordinates>10.7684965,59.94659</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-12 08:21:00</name>
+        <Point>
+          <coordinates>10.7693945,59.94645</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-12 08:31:00</name>
+        <Point>
+          <coordinates>10.769219,59.946358</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-12 08:38:48</name>
+        <Point>
+          <coordinates>10.7690535,59.9482275</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-12 08:56:13</name>
+        <Point>
+          <coordinates>10.766239,59.955368</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-12 09:00:37</name>
+        <Point>
+          <coordinates>10.764764,59.955005</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-12 09:10:30</name>
+        <Point>
+          <coordinates>10.7646215,59.956267999999994</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-12 11:08:10</name>
+        <Point>
+          <coordinates>10.764629,59.956295</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-12 12:25:58</name>
+        <Point>
+          <coordinates>10.764612,59.956245</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-12 12:30:58</name>
+        <Point>
+          <coordinates>10.76487,59.95548</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-12 12:40:53</name>
+        <Point>
+          <coordinates>10.7648855,59.9555625</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-12 12:51:23</name>
+        <Point>
+          <coordinates>10.764849,59.955402500000005</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-12 13:05:26</name>
+        <Point>
+          <coordinates>10.764797,59.954655</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-12 13:10:24</name>
+        <Point>
+          <coordinates>10.76462,59.956272</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-12 13:57:31</name>
+        <Point>
+          <coordinates>10.764619,59.95627</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-12 14:06:16</name>
+        <Point>
+          <coordinates>10.7646375,59.956556500000005</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-12 14:10:22</name>
+        <Point>
+          <coordinates>10.764627,59.95629</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-12 14:47:59</name>
+        <Point>
+          <coordinates>10.7647315,59.955869500000006</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-12 15:59:57</name>
+        <Point>
+          <coordinates>10.764635,59.95629</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-12 16:09:18</name>
+        <Point>
+          <coordinates>10.7648695,59.955616000000006</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-12 16:19:42</name>
+        <Point>
+          <coordinates>10.766734,59.949713</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-12 16:29:27</name>
+        <Point>
+          <coordinates>10.768459,59.946681</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-12 16:39:50</name>
+        <Point>
+          <coordinates>10.769037,59.946479</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-12 16:51:51</name>
+        <Point>
+          <coordinates>10.769229,59.9463435</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-12 17:02:07</name>
+        <Point>
+          <coordinates>10.769319,59.946321</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-12 17:11:19</name>
+        <Point>
+          <coordinates>10.7692555,59.946408000000005</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-12 17:22:21</name>
+        <Point>
+          <coordinates>10.768579,59.946568</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-12 17:30:06</name>
+        <Point>
+          <coordinates>10.768917,59.946462</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2015-11-12 17:40:28</name>
+        <Point>
+          <coordinates>10.768394,59.946600000000004</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

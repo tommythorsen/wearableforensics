@@ -1,0 +1,2180 @@
+<data>
+<datapoint name="com.google.step_count.delta" start="2015-11-07 15:49:21" end="2015-11-07 15:50:08">
+	<field name="steps" value="25"/>
+</datapoint>
+<datapoint name="com.google.heart_rate.summary" start="2015-11-07 15:42:52" end="2015-11-07 15:42:52">
+	<field name="average" value="51.0"/>
+	<field name="max" value="51.0"/>
+	<field name="min" value="51.0"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-07 15:50:08" end="2015-11-07 15:54:56">
+	<field name="steps" value="308"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-07 15:59:08" end="2015-11-07 15:59:08">
+	<field name="low_latitude" value="58.901726"/>
+	<field name="low_longitude" value="9.140518"/>
+	<field name="high_latitude" value="58.901726"/>
+	<field name="high_longitude" value="9.140518"/>
+</datapoint>
+<datapoint name="com.google.activity.summary" start="2015-11-07 15:51:37" end="2015-11-07 15:54:38">
+	<field name="activity" value="7"/>
+	<field name="duration" value="181375"/>
+	<field name="num_segments" value="1"/>
+</datapoint>
+<datapoint name="com.google.heart_rate.summary" start="2015-11-07 16:31:37" end="2015-11-07 16:31:51">
+	<field name="average" value="91.0"/>
+	<field name="max" value="112.0"/>
+	<field name="min" value="70.0"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-07 16:40:44" end="2015-11-07 16:41:44">
+	<field name="steps" value="2"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-07 16:50:14" end="2015-11-07 16:51:14">
+	<field name="steps" value="1"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-07 17:15:10" end="2015-11-07 17:15:10">
+	<field name="low_latitude" value="58.90161"/>
+	<field name="low_longitude" value="9.140629"/>
+	<field name="high_latitude" value="58.90161"/>
+	<field name="high_longitude" value="9.140629"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-07 17:23:23" end="2015-11-07 17:28:00">
+	<field name="steps" value="2"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-07 17:30:29" end="2015-11-07 17:31:29">
+	<field name="steps" value="7"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-07 17:46:43" end="2015-11-07 17:50:08">
+	<field name="steps" value="23"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-07 17:50:08" end="2015-11-07 18:00:06">
+	<field name="steps" value="6"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-07 18:03:02" end="2015-11-07 18:04:02">
+	<field name="steps" value="2"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-07 18:14:21" end="2015-11-07 18:20:08">
+	<field name="steps" value="294"/>
+</datapoint>
+<datapoint name="com.google.activity.summary" start="2015-11-07 18:15:21" end="2015-11-07 18:17:43">
+	<field name="activity" value="7"/>
+	<field name="duration" value="142049"/>
+	<field name="num_segments" value="1"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-07 18:20:08" end="2015-11-07 18:21:48">
+	<field name="steps" value="50"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-07 18:35:30" end="2015-11-07 18:39:40">
+	<field name="steps" value="10"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-07 18:41:45" end="2015-11-07 18:46:44">
+	<field name="steps" value="13"/>
+</datapoint>
+<datapoint name="com.google.heart_rate.summary" start="2015-11-07 18:44:32" end="2015-11-07 18:44:32">
+	<field name="average" value="89.0"/>
+	<field name="max" value="89.0"/>
+	<field name="min" value="89.0"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-07 18:56:02" end="2015-11-07 18:58:39">
+	<field name="steps" value="17"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-07 19:03:59" end="2015-11-07 19:09:59">
+	<field name="steps" value="35"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-07 19:18:00" end="2015-11-07 19:19:00">
+	<field name="steps" value="1"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-07 19:37:48" end="2015-11-07 19:38:48">
+	<field name="steps" value="26"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-07 19:50:37" end="2015-11-07 19:57:29">
+	<field name="steps" value="47"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-07 20:01:28" end="2015-11-07 20:02:28">
+	<field name="steps" value="14"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-07 20:17:32" end="2015-11-07 20:18:32">
+	<field name="steps" value="1"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-07 20:46:22" end="2015-11-07 20:47:22">
+	<field name="steps" value="6"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-07 21:01:27" end="2015-11-07 21:07:31">
+	<field name="steps" value="135"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-07 21:10:09" end="2015-11-07 21:19:40">
+	<field name="steps" value="3"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-07 21:21:31" end="2015-11-07 21:25:32">
+	<field name="steps" value="8"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-07 21:35:53" end="2015-11-07 21:40:08">
+	<field name="steps" value="11"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-07 21:40:08" end="2015-11-07 21:50:08">
+	<field name="steps" value="96"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-07 21:50:08" end="2015-11-07 21:57:17">
+	<field name="steps" value="167"/>
+</datapoint>
+<datapoint name="com.google.activity.summary" start="2015-11-07 21:53:42" end="2015-11-07 21:54:46">
+	<field name="activity" value="7"/>
+	<field name="duration" value="64251"/>
+	<field name="num_segments" value="1"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-07 22:40:20" end="2015-11-07 22:41:20">
+	<field name="steps" value="10"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-08 09:26:53" end="2015-11-08 09:30:08">
+	<field name="steps" value="34"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-08 09:30:08" end="2015-11-08 09:39:33">
+	<field name="steps" value="41"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-08 09:44:49" end="2015-11-08 09:45:49">
+	<field name="steps" value="1"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-08 09:52:39" end="2015-11-08 10:00:08">
+	<field name="steps" value="160"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-08 10:00:08" end="2015-11-08 10:06:27">
+	<field name="steps" value="37"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-08 10:11:19" end="2015-11-08 10:19:46">
+	<field name="steps" value="136"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-08 10:20:57" end="2015-11-08 10:26:58">
+	<field name="steps" value="129"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-08 10:35:01" end="2015-11-08 10:36:01">
+	<field name="steps" value="13"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-08 11:13:04" end="2015-11-08 11:14:04">
+	<field name="steps" value="3"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-08 11:40:01" end="2015-11-08 11:40:08">
+	<field name="steps" value="3"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-08 11:40:08" end="2015-11-08 11:50:07">
+	<field name="steps" value="149"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-08 11:51:46" end="2015-11-08 11:59:43">
+	<field name="steps" value="248"/>
+</datapoint>
+<datapoint name="com.google.activity.summary" start="2015-11-08 11:54:18" end="2015-11-08 11:56:01">
+	<field name="activity" value="7"/>
+	<field name="duration" value="103629"/>
+	<field name="num_segments" value="1"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-08 12:00:09" end="2015-11-08 12:08:50">
+	<field name="steps" value="143"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-08 12:00:40" end="2015-11-08 12:00:40">
+	<field name="low_latitude" value="58.901867"/>
+	<field name="low_longitude" value="9.140382"/>
+	<field name="high_latitude" value="58.901867"/>
+	<field name="high_longitude" value="9.140382"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-08 13:25:25" end="2015-11-08 13:25:25">
+	<field name="low_latitude" value="58.901867"/>
+	<field name="low_longitude" value="9.140387"/>
+	<field name="high_latitude" value="58.901867"/>
+	<field name="high_longitude" value="9.140387"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-08 13:35:17" end="2015-11-08 13:36:55">
+	<field name="steps" value="5"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-08 13:42:39" end="2015-11-08 13:46:14">
+	<field name="steps" value="2"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-08 14:05:01" end="2015-11-08 14:08:50">
+	<field name="steps" value="2"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-08 14:16:08" end="2015-11-08 14:17:10">
+	<field name="steps" value="3"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-08 14:39:43" end="2015-11-08 14:40:08">
+	<field name="steps" value="0"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-08 14:40:08" end="2015-11-08 14:50:05">
+	<field name="steps" value="3"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-08 15:00:34" end="2015-11-08 15:10:08">
+	<field name="steps" value="6"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-08 15:10:08" end="2015-11-08 15:20:08">
+	<field name="steps" value="193"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-08 15:20:08" end="2015-11-08 15:23:10">
+	<field name="steps" value="42"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-08 15:37:00" end="2015-11-08 15:39:37">
+	<field name="steps" value="60"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-08 15:48:10" end="2015-11-08 15:48:10">
+	<field name="low_latitude" value="59.39061"/>
+	<field name="low_longitude" value="10.373438"/>
+	<field name="high_latitude" value="59.39061"/>
+	<field name="high_longitude" value="10.373438"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-08 16:26:09" end="2015-11-08 16:27:09">
+	<field name="steps" value="1"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-08 17:04:01" end="2015-11-08 17:09:38">
+	<field name="steps" value="113"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-08 17:10:08" end="2015-11-08 17:18:47">
+	<field name="steps" value="67"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-08 17:19:15" end="2015-11-08 17:19:15">
+	<field name="low_latitude" value="59.946533"/>
+	<field name="low_longitude" value="10.76853"/>
+	<field name="high_latitude" value="59.946533"/>
+	<field name="high_longitude" value="10.76853"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-08 17:20:32" end="2015-11-08 17:21:52">
+	<field name="steps" value="8"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-08 17:29:30" end="2015-11-08 17:29:30">
+	<field name="low_latitude" value="59.946495"/>
+	<field name="low_longitude" value="10.769027"/>
+	<field name="high_latitude" value="59.946495"/>
+	<field name="high_longitude" value="10.769027"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-08 17:34:43" end="2015-11-08 17:39:37">
+	<field name="low_latitude" value="59.946472"/>
+	<field name="low_longitude" value="10.7687435"/>
+	<field name="high_latitude" value="59.94652"/>
+	<field name="high_longitude" value="10.768874"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-08 17:45:01" end="2015-11-08 17:45:01">
+	<field name="low_latitude" value="59.94654"/>
+	<field name="low_longitude" value="10.768584"/>
+	<field name="high_latitude" value="59.94654"/>
+	<field name="high_longitude" value="10.768584"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-08 17:50:25" end="2015-11-08 17:55:30">
+	<field name="low_latitude" value="59.946507"/>
+	<field name="low_longitude" value="10.768561"/>
+	<field name="high_latitude" value="59.94655"/>
+	<field name="high_longitude" value="10.768945"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-08 18:05:41" end="2015-11-08 18:07:05">
+	<field name="steps" value="14"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-08 18:01:00" end="2015-11-08 18:06:04">
+	<field name="low_latitude" value="59.946423"/>
+	<field name="low_longitude" value="10.768815"/>
+	<field name="high_latitude" value="59.94654"/>
+	<field name="high_longitude" value="10.768903"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-08 18:12:30" end="2015-11-08 18:12:30">
+	<field name="low_latitude" value="59.946594"/>
+	<field name="low_longitude" value="10.768525"/>
+	<field name="high_latitude" value="59.946594"/>
+	<field name="high_longitude" value="10.768525"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-08 18:20:53" end="2015-11-08 18:20:53">
+	<field name="low_latitude" value="59.946606"/>
+	<field name="low_longitude" value="10.768436"/>
+	<field name="high_latitude" value="59.946606"/>
+	<field name="high_longitude" value="10.768436"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-08 18:34:06" end="2015-11-08 18:39:25">
+	<field name="steps" value="80"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-08 18:40:42" end="2015-11-08 18:45:56">
+	<field name="steps" value="21"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-08 18:41:37" end="2015-11-08 18:47:08">
+	<field name="low_latitude" value="59.946545"/>
+	<field name="low_longitude" value="10.768372"/>
+	<field name="high_latitude" value="59.94668"/>
+	<field name="high_longitude" value="10.768563"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-08 18:54:58" end="2015-11-08 19:00:02">
+	<field name="low_latitude" value="59.94666"/>
+	<field name="low_longitude" value="10.768419"/>
+	<field name="high_latitude" value="59.947437"/>
+	<field name="high_longitude" value="10.768516"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-08 20:18:36" end="2015-11-08 20:20:08">
+	<field name="steps" value="19"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-08 20:20:08" end="2015-11-08 20:30:08">
+	<field name="steps" value="75"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-08 20:21:42" end="2015-11-08 20:27:04">
+	<field name="low_latitude" value="59.946495"/>
+	<field name="low_longitude" value="10.76848"/>
+	<field name="high_latitude" value="59.946568"/>
+	<field name="high_longitude" value="10.768663"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-08 20:30:08" end="2015-11-08 20:32:19">
+	<field name="steps" value="14"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-08 20:31:35" end="2015-11-08 20:31:35">
+	<field name="low_latitude" value="59.946415"/>
+	<field name="low_longitude" value="10.768893"/>
+	<field name="high_latitude" value="59.946415"/>
+	<field name="high_longitude" value="10.768893"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-08 20:41:41" end="2015-11-08 20:41:41">
+	<field name="low_latitude" value="59.946545"/>
+	<field name="low_longitude" value="10.768456"/>
+	<field name="high_latitude" value="59.946545"/>
+	<field name="high_longitude" value="10.768456"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-08 20:51:41" end="2015-11-08 21:00:00">
+	<field name="low_latitude" value="59.946423"/>
+	<field name="low_longitude" value="10.768471"/>
+	<field name="high_latitude" value="59.946526"/>
+	<field name="high_longitude" value="10.768844"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-08 21:04:50" end="2015-11-08 21:05:50">
+	<field name="steps" value="1"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-08 21:05:01" end="2015-11-08 21:09:57">
+	<field name="low_latitude" value="59.946445"/>
+	<field name="low_longitude" value="10.768459"/>
+	<field name="high_latitude" value="59.946526"/>
+	<field name="high_longitude" value="10.768703"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-08 21:12:23" end="2015-11-08 21:18:02">
+	<field name="steps" value="43"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-08 21:17:52" end="2015-11-08 21:17:52">
+	<field name="low_latitude" value="59.94653"/>
+	<field name="low_longitude" value="10.768576"/>
+	<field name="high_latitude" value="59.94653"/>
+	<field name="high_longitude" value="10.768576"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-08 21:27:57" end="2015-11-08 21:27:57">
+	<field name="low_latitude" value="59.94648"/>
+	<field name="low_longitude" value="10.768915"/>
+	<field name="high_latitude" value="59.94648"/>
+	<field name="high_longitude" value="10.768915"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-08 21:33:02" end="2015-11-08 21:38:04">
+	<field name="low_latitude" value="59.94646"/>
+	<field name="low_longitude" value="10.768599"/>
+	<field name="high_latitude" value="59.946503"/>
+	<field name="high_longitude" value="10.768851"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-08 21:43:12" end="2015-11-08 21:48:47">
+	<field name="low_latitude" value="59.94642"/>
+	<field name="low_longitude" value="10.768479"/>
+	<field name="high_latitude" value="59.946568"/>
+	<field name="high_longitude" value="10.768936"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-08 21:53:48" end="2015-11-08 21:58:49">
+	<field name="low_latitude" value="59.946518"/>
+	<field name="low_longitude" value="10.768432"/>
+	<field name="high_latitude" value="59.946598"/>
+	<field name="high_longitude" value="10.768941"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-08 22:03:06" end="2015-11-08 22:09:11">
+	<field name="low_latitude" value="59.946415"/>
+	<field name="low_longitude" value="10.76904"/>
+	<field name="high_latitude" value="59.94648"/>
+	<field name="high_longitude" value="10.769223"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-08 22:14:46" end="2015-11-08 22:14:46">
+	<field name="low_latitude" value="59.946575"/>
+	<field name="low_longitude" value="10.768937"/>
+	<field name="high_latitude" value="59.946575"/>
+	<field name="high_longitude" value="10.768937"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-08 22:23:35" end="2015-11-08 22:28:36">
+	<field name="low_latitude" value="59.946396"/>
+	<field name="low_longitude" value="10.768725"/>
+	<field name="high_latitude" value="59.946487"/>
+	<field name="high_longitude" value="10.768954"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-08 22:32:24" end="2015-11-08 22:34:53">
+	<field name="steps" value="14"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-08 22:35:42" end="2015-11-08 22:35:42">
+	<field name="low_latitude" value="59.946667"/>
+	<field name="low_longitude" value="10.768424"/>
+	<field name="high_latitude" value="59.946667"/>
+	<field name="high_longitude" value="10.768424"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-08 22:51:08" end="2015-11-08 22:56:09">
+	<field name="low_latitude" value="59.94664"/>
+	<field name="low_longitude" value="10.7683"/>
+	<field name="high_latitude" value="59.946674"/>
+	<field name="high_longitude" value="10.768403"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-08 23:42:37" end="2015-11-08 23:47:53">
+	<field name="low_latitude" value="59.94668"/>
+	<field name="low_longitude" value="10.7684"/>
+	<field name="high_latitude" value="59.9467"/>
+	<field name="high_longitude" value="10.76853"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-09 00:03:01" end="2015-11-09 00:03:01">
+	<field name="low_latitude" value="59.94665"/>
+	<field name="low_longitude" value="10.768312"/>
+	<field name="high_latitude" value="59.94665"/>
+	<field name="high_longitude" value="10.768312"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-09 00:18:54" end="2015-11-09 00:18:54">
+	<field name="low_latitude" value="59.946682"/>
+	<field name="low_longitude" value="10.768418"/>
+	<field name="high_latitude" value="59.946682"/>
+	<field name="high_longitude" value="10.768418"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-09 01:16:05" end="2015-11-09 01:16:05">
+	<field name="low_latitude" value="59.947067"/>
+	<field name="low_longitude" value="10.768279"/>
+	<field name="high_latitude" value="59.947067"/>
+	<field name="high_longitude" value="10.768279"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-09 01:21:00" end="2015-11-09 01:21:00">
+	<field name="low_latitude" value="59.946686"/>
+	<field name="low_longitude" value="10.768449"/>
+	<field name="high_latitude" value="59.946686"/>
+	<field name="high_longitude" value="10.768449"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-09 01:57:27" end="2015-11-09 01:57:27">
+	<field name="low_latitude" value="59.94664"/>
+	<field name="low_longitude" value="10.768432"/>
+	<field name="high_latitude" value="59.94664"/>
+	<field name="high_longitude" value="10.768432"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-09 03:10:10" end="2015-11-09 03:10:10">
+	<field name="low_latitude" value="59.94669"/>
+	<field name="low_longitude" value="10.768433"/>
+	<field name="high_latitude" value="59.94669"/>
+	<field name="high_longitude" value="10.768433"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-09 03:35:46" end="2015-11-09 03:35:46">
+	<field name="low_latitude" value="59.946648"/>
+	<field name="low_longitude" value="10.768392"/>
+	<field name="high_latitude" value="59.946648"/>
+	<field name="high_longitude" value="10.768392"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-09 04:26:47" end="2015-11-09 04:26:47">
+	<field name="low_latitude" value="59.946693"/>
+	<field name="low_longitude" value="10.768462"/>
+	<field name="high_latitude" value="59.946693"/>
+	<field name="high_longitude" value="10.768462"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-09 04:31:48" end="2015-11-09 04:31:48">
+	<field name="low_latitude" value="59.946674"/>
+	<field name="low_longitude" value="10.768349"/>
+	<field name="high_latitude" value="59.946674"/>
+	<field name="high_longitude" value="10.768349"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-09 04:42:28" end="2015-11-09 04:47:37">
+	<field name="low_latitude" value="59.94665"/>
+	<field name="low_longitude" value="10.768337"/>
+	<field name="high_latitude" value="59.94669"/>
+	<field name="high_longitude" value="10.768446"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-09 04:57:49" end="2015-11-09 04:57:49">
+	<field name="low_latitude" value="59.946693"/>
+	<field name="low_longitude" value="10.768471"/>
+	<field name="high_latitude" value="59.946693"/>
+	<field name="high_longitude" value="10.768471"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-09 05:08:00" end="2015-11-09 05:08:00">
+	<field name="low_latitude" value="59.94667"/>
+	<field name="low_longitude" value="10.768355"/>
+	<field name="high_latitude" value="59.94667"/>
+	<field name="high_longitude" value="10.768355"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-09 05:28:48" end="2015-11-09 05:28:48">
+	<field name="low_latitude" value="59.94666"/>
+	<field name="low_longitude" value="10.768449"/>
+	<field name="high_latitude" value="59.94666"/>
+	<field name="high_longitude" value="10.768449"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-09 05:48:54" end="2015-11-09 05:48:54">
+	<field name="low_latitude" value="59.946667"/>
+	<field name="low_longitude" value="10.768357"/>
+	<field name="high_latitude" value="59.946667"/>
+	<field name="high_longitude" value="10.768357"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-09 06:31:50" end="2015-11-09 06:31:50">
+	<field name="low_latitude" value="59.946644"/>
+	<field name="low_longitude" value="10.768442"/>
+	<field name="high_latitude" value="59.946644"/>
+	<field name="high_longitude" value="10.768442"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-09 06:47:34" end="2015-11-09 06:47:34">
+	<field name="low_latitude" value="59.946663"/>
+	<field name="low_longitude" value="10.768348"/>
+	<field name="high_latitude" value="59.946663"/>
+	<field name="high_longitude" value="10.768348"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-09 06:58:03" end="2015-11-09 06:58:03">
+	<field name="low_latitude" value="59.94668"/>
+	<field name="low_longitude" value="10.768479"/>
+	<field name="high_latitude" value="59.94668"/>
+	<field name="high_longitude" value="10.768479"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-09 07:08:03" end="2015-11-09 07:08:03">
+	<field name="low_latitude" value="59.946686"/>
+	<field name="low_longitude" value="10.768332"/>
+	<field name="high_latitude" value="59.946686"/>
+	<field name="high_longitude" value="10.768332"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-09 07:18:35" end="2015-11-09 07:18:35">
+	<field name="low_latitude" value="59.946674"/>
+	<field name="low_longitude" value="10.76846"/>
+	<field name="high_latitude" value="59.946674"/>
+	<field name="high_longitude" value="10.76846"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-09 07:44:07" end="2015-11-09 07:45:07">
+	<field name="steps" value="14"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-09 07:47:23" end="2015-11-09 07:47:23">
+	<field name="low_latitude" value="59.946598"/>
+	<field name="low_longitude" value="10.7684555"/>
+	<field name="high_latitude" value="59.946598"/>
+	<field name="high_longitude" value="10.7684555"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-09 07:52:00" end="2015-11-09 08:00:08">
+	<field name="steps" value="18"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-09 07:53:00" end="2015-11-09 07:59:43">
+	<field name="low_latitude" value="59.946465"/>
+	<field name="low_longitude" value="10.768324"/>
+	<field name="high_latitude" value="59.94665"/>
+	<field name="high_longitude" value="10.7694"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-09 08:00:08" end="2015-11-09 08:10:08">
+	<field name="steps" value="72"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-09 08:10:08" end="2015-11-09 08:15:30">
+	<field name="steps" value="9"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-09 08:20:00" end="2015-11-09 08:20:00">
+	<field name="low_latitude" value="59.945763"/>
+	<field name="low_longitude" value="10.775998"/>
+	<field name="high_latitude" value="59.945763"/>
+	<field name="high_longitude" value="10.775998"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-09 08:24:13" end="2015-11-09 08:30:08">
+	<field name="steps" value="97"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-09 08:30:08" end="2015-11-09 08:31:04">
+	<field name="steps" value="43"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-09 08:34:17" end="2015-11-09 08:34:17">
+	<field name="low_latitude" value="59.956264"/>
+	<field name="low_longitude" value="10.764622"/>
+	<field name="high_latitude" value="59.956264"/>
+	<field name="high_longitude" value="10.764622"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-09 09:23:45" end="2015-11-09 09:30:08">
+	<field name="steps" value="32"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-09 09:30:08" end="2015-11-09 09:40:08">
+	<field name="steps" value="4"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-09 09:31:04" end="2015-11-09 09:31:04">
+	<field name="low_latitude" value="59.956215"/>
+	<field name="low_longitude" value="10.764587"/>
+	<field name="high_latitude" value="59.956215"/>
+	<field name="high_longitude" value="10.764587"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-09 09:40:08" end="2015-11-09 09:49:51">
+	<field name="steps" value="47"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-09 09:55:00" end="2015-11-09 09:55:00">
+	<field name="low_latitude" value="59.956264"/>
+	<field name="low_longitude" value="10.764629"/>
+	<field name="high_latitude" value="59.956264"/>
+	<field name="high_longitude" value="10.764629"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-09 10:20:08" end="2015-11-09 10:21:08">
+	<field name="steps" value="1"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-09 10:48:24" end="2015-11-09 10:49:24">
+	<field name="steps" value="1"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-09 11:02:53" end="2015-11-09 11:04:39">
+	<field name="steps" value="35"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-09 11:10:52" end="2015-11-09 11:12:58">
+	<field name="steps" value="51"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-09 11:21:29" end="2015-11-09 11:22:29">
+	<field name="steps" value="2"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-09 11:31:29" end="2015-11-09 11:40:08">
+	<field name="steps" value="114"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-09 11:40:08" end="2015-11-09 11:42:06">
+	<field name="steps" value="59"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-09 11:42:36" end="2015-11-09 11:47:35">
+	<field name="low_latitude" value="59.956154"/>
+	<field name="low_longitude" value="10.7646265"/>
+	<field name="high_latitude" value="59.956276"/>
+	<field name="high_longitude" value="10.764627"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-09 11:56:21" end="2015-11-09 12:00:08">
+	<field name="steps" value="113"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-09 12:00:08" end="2015-11-09 12:02:19">
+	<field name="steps" value="65"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-09 12:07:56" end="2015-11-09 12:07:56">
+	<field name="low_latitude" value="59.95555"/>
+	<field name="low_longitude" value="10.76489"/>
+	<field name="high_latitude" value="59.95555"/>
+	<field name="high_longitude" value="10.76489"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-09 12:22:06" end="2015-11-09 12:22:06">
+	<field name="low_latitude" value="59.955597"/>
+	<field name="low_longitude" value="10.764903"/>
+	<field name="high_latitude" value="59.955597"/>
+	<field name="high_longitude" value="10.764903"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-09 12:31:55" end="2015-11-09 12:40:08">
+	<field name="steps" value="51"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-09 12:34:59" end="2015-11-09 12:34:59">
+	<field name="low_latitude" value="59.955612"/>
+	<field name="low_longitude" value="10.764906"/>
+	<field name="high_latitude" value="59.955612"/>
+	<field name="high_longitude" value="10.764906"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-09 12:40:08" end="2015-11-09 12:47:44">
+	<field name="steps" value="46"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-09 12:42:43" end="2015-11-09 12:47:51">
+	<field name="low_latitude" value="59.95465"/>
+	<field name="low_longitude" value="10.764621"/>
+	<field name="high_latitude" value="59.95626"/>
+	<field name="high_longitude" value="10.764834"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-09 14:53:36" end="2015-11-09 14:58:42">
+	<field name="steps" value="142"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-09 15:33:49" end="2015-11-09 15:35:41">
+	<field name="steps" value="56"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-09 15:42:10" end="2015-11-09 15:43:57">
+	<field name="steps" value="79"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-09 15:41:04" end="2015-11-09 15:41:04">
+	<field name="low_latitude" value="59.956154"/>
+	<field name="low_longitude" value="10.764614"/>
+	<field name="high_latitude" value="59.956154"/>
+	<field name="high_longitude" value="10.764614"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-09 15:51:12" end="2015-11-09 15:51:12">
+	<field name="low_latitude" value="59.956253"/>
+	<field name="low_longitude" value="10.764628"/>
+	<field name="high_latitude" value="59.956253"/>
+	<field name="high_longitude" value="10.764628"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-09 16:15:09" end="2015-11-09 16:19:52">
+	<field name="steps" value="79"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-09 16:24:09" end="2015-11-09 16:26:58">
+	<field name="steps" value="148"/>
+</datapoint>
+<datapoint name="com.google.activity.summary" start="2015-11-09 16:25:09" end="2015-11-09 16:26:24">
+	<field name="activity" value="7"/>
+	<field name="duration" value="75028"/>
+	<field name="num_segments" value="1"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-09 16:31:59" end="2015-11-09 16:31:59">
+	<field name="low_latitude" value="59.94669"/>
+	<field name="low_longitude" value="10.76844"/>
+	<field name="high_latitude" value="59.94669"/>
+	<field name="high_longitude" value="10.76844"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-09 16:46:40" end="2015-11-09 16:46:40">
+	<field name="low_latitude" value="59.946636"/>
+	<field name="low_longitude" value="10.7683735"/>
+	<field name="high_latitude" value="59.946636"/>
+	<field name="high_longitude" value="10.7683735"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-09 18:10:03" end="2015-11-09 18:10:08">
+	<field name="steps" value="1"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-09 18:10:08" end="2015-11-09 18:16:08">
+	<field name="steps" value="25"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-09 18:27:12" end="2015-11-09 18:30:08">
+	<field name="steps" value="41"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-09 18:29:24" end="2015-11-09 18:29:24">
+	<field name="low_latitude" value="59.946674"/>
+	<field name="low_longitude" value="10.768429"/>
+	<field name="high_latitude" value="59.946674"/>
+	<field name="high_longitude" value="10.768429"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-09 18:30:08" end="2015-11-09 18:33:36">
+	<field name="steps" value="80"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-09 18:32:19" end="2015-11-09 18:32:19">
+	<field name="low_latitude" value="59.946632"/>
+	<field name="low_longitude" value="10.768353"/>
+	<field name="high_latitude" value="59.946632"/>
+	<field name="high_longitude" value="10.768353"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-09 18:59:09" end="2015-11-09 19:00:08">
+	<field name="steps" value="0"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-09 18:52:08" end="2015-11-09 18:57:25">
+	<field name="low_latitude" value="59.94648"/>
+	<field name="low_longitude" value="10.7685375"/>
+	<field name="high_latitude" value="59.94656"/>
+	<field name="high_longitude" value="10.769389"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-09 19:00:08" end="2015-11-09 19:06:01">
+	<field name="steps" value="1"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-09 19:02:20" end="2015-11-09 19:08:21">
+	<field name="low_latitude" value="59.94638"/>
+	<field name="low_longitude" value="10.7683325"/>
+	<field name="high_latitude" value="59.94662"/>
+	<field name="high_longitude" value="10.769535"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-09 19:26:57" end="2015-11-09 19:30:08">
+	<field name="steps" value="27"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-09 19:30:08" end="2015-11-09 19:39:19">
+	<field name="steps" value="47"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-09 19:32:25" end="2015-11-09 19:37:26">
+	<field name="low_latitude" value="59.94633"/>
+	<field name="low_longitude" value="10.769254"/>
+	<field name="high_latitude" value="59.946335"/>
+	<field name="high_longitude" value="10.769443"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-09 19:40:35" end="2015-11-09 19:50:08">
+	<field name="steps" value="661"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-09 19:40:30" end="2015-11-09 19:45:54">
+	<field name="low_latitude" value="59.94639"/>
+	<field name="low_longitude" value="10.76947"/>
+	<field name="high_latitude" value="59.946983"/>
+	<field name="high_longitude" value="10.769587"/>
+</datapoint>
+<datapoint name="com.google.activity.summary" start="2015-11-09 19:43:44" end="2015-11-09 19:50:08">
+	<field name="activity" value="7"/>
+	<field name="duration" value="384042"/>
+	<field name="num_segments" value="1"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-09 19:50:08" end="2015-11-09 20:00:08">
+	<field name="steps" value="274"/>
+</datapoint>
+<datapoint name="com.google.activity.summary" start="2015-11-09 19:50:08" end="2015-11-09 20:00:08">
+	<field name="activity" value="7"/>
+	<field name="duration" value="168355"/>
+	<field name="num_segments" value="2"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-09 20:00:08" end="2015-11-09 20:10:08">
+	<field name="steps" value="546"/>
+</datapoint>
+<datapoint name="com.google.activity.summary" start="2015-11-09 20:00:08" end="2015-11-09 20:10:08">
+	<field name="activity" value="7"/>
+	<field name="duration" value="291706"/>
+	<field name="num_segments" value="2"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-09 20:10:08" end="2015-11-09 20:20:08">
+	<field name="steps" value="472"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-09 20:18:26" end="2015-11-09 20:18:26">
+	<field name="low_latitude" value="59.946667"/>
+	<field name="low_longitude" value="10.768424"/>
+	<field name="high_latitude" value="59.946667"/>
+	<field name="high_longitude" value="10.768424"/>
+</datapoint>
+<datapoint name="com.google.activity.summary" start="2015-11-09 20:10:08" end="2015-11-09 20:14:01">
+	<field name="activity" value="7"/>
+	<field name="duration" value="233020"/>
+	<field name="num_segments" value="1"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-09 20:20:08" end="2015-11-09 20:23:12">
+	<field name="steps" value="19"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-09 20:25:15" end="2015-11-09 20:25:15">
+	<field name="low_latitude" value="59.94633"/>
+	<field name="low_longitude" value="10.769326"/>
+	<field name="high_latitude" value="59.94633"/>
+	<field name="high_longitude" value="10.769326"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-09 20:30:12" end="2015-11-09 20:30:12">
+	<field name="low_latitude" value="59.946537"/>
+	<field name="low_longitude" value="10.768566"/>
+	<field name="high_latitude" value="59.946537"/>
+	<field name="high_longitude" value="10.768566"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-09 20:46:02" end="2015-11-09 20:46:02">
+	<field name="low_latitude" value="59.946316"/>
+	<field name="low_longitude" value="10.769364"/>
+	<field name="high_latitude" value="59.946316"/>
+	<field name="high_longitude" value="10.769364"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-09 20:53:21" end="2015-11-09 20:53:21">
+	<field name="low_latitude" value="59.94652"/>
+	<field name="low_longitude" value="10.768694"/>
+	<field name="high_latitude" value="59.94652"/>
+	<field name="high_longitude" value="10.768694"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-09 21:08:31" end="2015-11-09 21:10:08">
+	<field name="steps" value="38"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-09 21:03:19" end="2015-11-09 21:08:11">
+	<field name="low_latitude" value="59.94654"/>
+	<field name="low_longitude" value="10.768735"/>
+	<field name="high_latitude" value="59.94655"/>
+	<field name="high_longitude" value="10.768843"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-09 21:10:08" end="2015-11-09 21:11:36">
+	<field name="steps" value="37"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-09 21:13:21" end="2015-11-09 21:19:01">
+	<field name="low_latitude" value="59.946537"/>
+	<field name="low_longitude" value="10.768632"/>
+	<field name="high_latitude" value="59.946583"/>
+	<field name="high_longitude" value="10.768928"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-09 21:24:01" end="2015-11-09 21:24:01">
+	<field name="low_latitude" value="59.946484"/>
+	<field name="low_longitude" value="10.768695"/>
+	<field name="high_latitude" value="59.946484"/>
+	<field name="high_longitude" value="10.768695"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-09 21:35:43" end="2015-11-09 21:36:43">
+	<field name="steps" value="3"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-09 21:32:18" end="2015-11-09 21:36:49">
+	<field name="low_latitude" value="59.946377"/>
+	<field name="low_longitude" value="10.76856"/>
+	<field name="high_latitude" value="59.946556"/>
+	<field name="high_longitude" value="10.769475"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-09 21:44:15" end="2015-11-09 21:48:59">
+	<field name="steps" value="43"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-09 21:46:46" end="2015-11-09 21:46:46">
+	<field name="low_latitude" value="59.946445"/>
+	<field name="low_longitude" value="10.768804"/>
+	<field name="high_latitude" value="59.946445"/>
+	<field name="high_longitude" value="10.768804"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-09 21:50:25" end="2015-11-09 21:58:20">
+	<field name="steps" value="70"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-09 22:11:23" end="2015-11-09 22:12:23">
+	<field name="steps" value="7"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-09 22:26:38" end="2015-11-09 22:30:08">
+	<field name="steps" value="25"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-09 22:30:08" end="2015-11-09 22:32:07">
+	<field name="steps" value="21"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-09 22:48:01" end="2015-11-09 22:49:01">
+	<field name="steps" value="13"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-09 23:02:39" end="2015-11-09 23:03:39">
+	<field name="steps" value="4"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-09 23:26:59" end="2015-11-09 23:28:15">
+	<field name="steps" value="38"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-09 23:41:52" end="2015-11-09 23:42:52">
+	<field name="steps" value="22"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-10 07:57:36" end="2015-11-10 08:00:08">
+	<field name="steps" value="61"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-10 08:00:08" end="2015-11-10 08:08:40">
+	<field name="steps" value="20"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-10 08:08:42" end="2015-11-10 08:08:42">
+	<field name="low_latitude" value="59.9464"/>
+	<field name="low_longitude" value="10.769041"/>
+	<field name="high_latitude" value="59.9464"/>
+	<field name="high_longitude" value="10.769041"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-10 08:11:57" end="2015-11-10 08:20:08">
+	<field name="steps" value="55"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-10 08:14:41" end="2015-11-10 08:20:00">
+	<field name="low_latitude" value="59.946518"/>
+	<field name="low_longitude" value="10.768406"/>
+	<field name="high_latitude" value="59.946655"/>
+	<field name="high_longitude" value="10.768982"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-10 08:20:08" end="2015-11-10 08:30:08">
+	<field name="steps" value="692"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-10 08:25:11" end="2015-11-10 08:25:11">
+	<field name="low_latitude" value="59.946754"/>
+	<field name="low_longitude" value="10.769025"/>
+	<field name="high_latitude" value="59.946754"/>
+	<field name="high_longitude" value="10.769025"/>
+</datapoint>
+<datapoint name="com.google.activity.summary" start="2015-11-10 08:24:05" end="2015-11-10 08:30:08">
+	<field name="activity" value="7"/>
+	<field name="duration" value="362989"/>
+	<field name="num_segments" value="1"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-10 08:30:08" end="2015-11-10 08:40:08">
+	<field name="steps" value="1035"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-10 08:35:36" end="2015-11-10 08:35:36">
+	<field name="low_latitude" value="59.954258"/>
+	<field name="low_longitude" value="10.76614"/>
+	<field name="high_latitude" value="59.954258"/>
+	<field name="high_longitude" value="10.76614"/>
+</datapoint>
+<datapoint name="com.google.activity.summary" start="2015-11-10 08:30:08" end="2015-11-10 08:40:08">
+	<field name="activity" value="7"/>
+	<field name="duration" value="600000"/>
+	<field name="num_segments" value="1"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-10 08:40:08" end="2015-11-10 08:45:00">
+	<field name="steps" value="247"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-10 08:40:30" end="2015-11-10 08:45:43">
+	<field name="low_latitude" value="59.95625"/>
+	<field name="low_longitude" value="10.764631"/>
+	<field name="high_latitude" value="59.956642"/>
+	<field name="high_longitude" value="10.764669"/>
+</datapoint>
+<datapoint name="com.google.activity.summary" start="2015-11-10 08:40:08" end="2015-11-10 08:42:25">
+	<field name="activity" value="7"/>
+	<field name="duration" value="136894"/>
+	<field name="num_segments" value="1"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-10 09:12:25" end="2015-11-10 09:20:08">
+	<field name="steps" value="26"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-10 09:20:08" end="2015-11-10 09:28:13">
+	<field name="steps" value="3"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-10 09:25:38" end="2015-11-10 09:30:07">
+	<field name="low_latitude" value="59.9562"/>
+	<field name="low_longitude" value="10.76456"/>
+	<field name="high_latitude" value="59.95624"/>
+	<field name="high_longitude" value="10.764602"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-10 09:38:53" end="2015-11-10 09:39:53">
+	<field name="steps" value="2"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-10 09:41:03" end="2015-11-10 09:46:28">
+	<field name="steps" value="87"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-10 09:56:44" end="2015-11-10 10:00:08">
+	<field name="steps" value="127"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-10 10:00:08" end="2015-11-10 10:03:25">
+	<field name="steps" value="24"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-10 10:11:20" end="2015-11-10 10:11:20">
+	<field name="low_latitude" value="59.955303"/>
+	<field name="low_longitude" value="10.764836"/>
+	<field name="high_latitude" value="59.955303"/>
+	<field name="high_longitude" value="10.764836"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-10 10:52:57" end="2015-11-10 10:56:53">
+	<field name="steps" value="118"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-10 10:58:43" end="2015-11-10 10:58:43">
+	<field name="low_latitude" value="59.956234"/>
+	<field name="low_longitude" value="10.764621"/>
+	<field name="high_latitude" value="59.956234"/>
+	<field name="high_longitude" value="10.764621"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-10 11:44:31" end="2015-11-10 11:45:31">
+	<field name="steps" value="1"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-10 11:57:33" end="2015-11-10 12:00:08">
+	<field name="steps" value="103"/>
+</datapoint>
+<datapoint name="com.google.activity.summary" start="2015-11-10 11:58:33" end="2015-11-10 11:59:37">
+	<field name="activity" value="7"/>
+	<field name="duration" value="63698"/>
+	<field name="num_segments" value="1"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-10 12:00:08" end="2015-11-10 12:03:10">
+	<field name="steps" value="49"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-10 12:09:22" end="2015-11-10 12:09:22">
+	<field name="low_latitude" value="59.955627"/>
+	<field name="low_longitude" value="10.764934"/>
+	<field name="high_latitude" value="59.955627"/>
+	<field name="high_longitude" value="10.764934"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-10 12:13:02" end="2015-11-10 12:16:55">
+	<field name="steps" value="3"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-10 12:14:30" end="2015-11-10 12:14:30">
+	<field name="low_latitude" value="59.955585"/>
+	<field name="low_longitude" value="10.764881"/>
+	<field name="high_latitude" value="59.955585"/>
+	<field name="high_longitude" value="10.764881"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-10 12:25:00" end="2015-11-10 12:27:25">
+	<field name="steps" value="51"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-10 12:21:16" end="2015-11-10 12:26:30">
+	<field name="low_latitude" value="59.955223"/>
+	<field name="low_longitude" value="10.764828"/>
+	<field name="high_latitude" value="59.95552"/>
+	<field name="high_longitude" value="10.764853"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-10 12:39:29" end="2015-11-10 12:40:08">
+	<field name="steps" value="13"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-10 12:35:00" end="2015-11-10 12:35:00">
+	<field name="low_latitude" value="59.955296"/>
+	<field name="low_longitude" value="10.764823"/>
+	<field name="high_latitude" value="59.955296"/>
+	<field name="high_longitude" value="10.764823"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-10 12:40:08" end="2015-11-10 12:50:08">
+	<field name="steps" value="25"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-10 12:40:30" end="2015-11-10 12:45:46">
+	<field name="low_latitude" value="59.95498"/>
+	<field name="low_longitude" value="10.764833"/>
+	<field name="high_latitude" value="59.95513"/>
+	<field name="high_longitude" value="10.764842"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-10 12:50:08" end="2015-11-10 12:59:42">
+	<field name="steps" value="85"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-10 12:50:50" end="2015-11-10 12:55:33">
+	<field name="low_latitude" value="59.95473"/>
+	<field name="low_longitude" value="10.764803"/>
+	<field name="high_latitude" value="59.955235"/>
+	<field name="high_longitude" value="10.764812"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-10 13:03:08" end="2015-11-10 13:04:08">
+	<field name="steps" value="1"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-10 13:01:45" end="2015-11-10 13:01:45">
+	<field name="low_latitude" value="59.95623"/>
+	<field name="low_longitude" value="10.764624"/>
+	<field name="high_latitude" value="59.95623"/>
+	<field name="high_longitude" value="10.764624"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-10 13:32:16" end="2015-11-10 13:40:08">
+	<field name="steps" value="19"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-10 13:40:08" end="2015-11-10 13:42:03">
+	<field name="steps" value="62"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-10 14:09:02" end="2015-11-10 14:10:02">
+	<field name="steps" value="5"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-10 14:14:02" end="2015-11-10 14:15:02">
+	<field name="steps" value="2"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-10 14:40:10" end="2015-11-10 14:47:00">
+	<field name="steps" value="155"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-10 14:57:09" end="2015-11-10 14:57:09">
+	<field name="low_latitude" value="59.956264"/>
+	<field name="low_longitude" value="10.764617"/>
+	<field name="high_latitude" value="59.956264"/>
+	<field name="high_longitude" value="10.764617"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-10 15:23:38" end="2015-11-10 15:24:38">
+	<field name="steps" value="2"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-10 15:31:47" end="2015-11-10 15:32:47">
+	<field name="steps" value="12"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-10 16:01:28" end="2015-11-10 16:10:08">
+	<field name="steps" value="677"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-10 16:04:58" end="2015-11-10 16:04:58">
+	<field name="low_latitude" value="59.95617"/>
+	<field name="low_longitude" value="10.764604"/>
+	<field name="high_latitude" value="59.95617"/>
+	<field name="high_longitude" value="10.764604"/>
+</datapoint>
+<datapoint name="com.google.activity.summary" start="2015-11-10 16:04:46" end="2015-11-10 16:10:08">
+	<field name="activity" value="7"/>
+	<field name="duration" value="322094"/>
+	<field name="num_segments" value="1"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-10 16:10:08" end="2015-11-10 16:20:08">
+	<field name="steps" value="1086"/>
+</datapoint>
+<datapoint name="com.google.activity.summary" start="2015-11-10 16:10:08" end="2015-11-10 16:20:08">
+	<field name="activity" value="7"/>
+	<field name="duration" value="600000"/>
+	<field name="num_segments" value="1"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-10 16:20:08" end="2015-11-10 16:26:49">
+	<field name="steps" value="340"/>
+</datapoint>
+<datapoint name="com.google.activity.summary" start="2015-11-10 16:20:08" end="2015-11-10 16:25:45">
+	<field name="activity" value="7"/>
+	<field name="duration" value="133477"/>
+	<field name="num_segments" value="2"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-10 19:07:13" end="2015-11-10 19:08:13">
+	<field name="steps" value="7"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-10 19:24:53" end="2015-11-10 19:30:08">
+	<field name="steps" value="1"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-10 19:30:08" end="2015-11-10 19:32:22">
+	<field name="steps" value="2"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-10 19:46:01" end="2015-11-10 19:47:01">
+	<field name="steps" value="1"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-10 20:04:44" end="2015-11-10 20:08:07">
+	<field name="steps" value="69"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-10 20:12:01" end="2015-11-10 20:13:01">
+	<field name="steps" value="5"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-10 20:38:26" end="2015-11-10 20:39:41">
+	<field name="steps" value="2"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-10 21:37:18" end="2015-11-10 21:39:00">
+	<field name="steps" value="28"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-10 21:44:12" end="2015-11-10 21:45:12">
+	<field name="steps" value="5"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-10 21:56:08" end="2015-11-10 21:57:08">
+	<field name="steps" value="16"/>
+</datapoint>
+<datapoint name="com.google.heart_rate.summary" start="2015-11-10 21:58:06" end="2015-11-10 21:58:21">
+	<field name="average" value="56.0"/>
+	<field name="max" value="56.0"/>
+	<field name="min" value="56.0"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-10 22:22:20" end="2015-11-10 22:28:25">
+	<field name="steps" value="55"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-10 22:25:00" end="2015-11-10 22:25:00">
+	<field name="low_latitude" value="59.946594"/>
+	<field name="low_longitude" value="10.768531"/>
+	<field name="high_latitude" value="59.946594"/>
+	<field name="high_longitude" value="10.768531"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-10 22:30:55" end="2015-11-10 22:37:03">
+	<field name="steps" value="67"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-10 22:34:50" end="2015-11-10 22:34:50">
+	<field name="low_latitude" value="59.946323"/>
+	<field name="low_longitude" value="10.769456"/>
+	<field name="high_latitude" value="59.946323"/>
+	<field name="high_longitude" value="10.769456"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-10 22:42:37" end="2015-11-10 22:48:16">
+	<field name="low_latitude" value="59.94642"/>
+	<field name="low_longitude" value="10.768538"/>
+	<field name="high_latitude" value="59.946545"/>
+	<field name="high_longitude" value="10.769002"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-10 22:58:01" end="2015-11-10 22:58:01">
+	<field name="low_latitude" value="59.946465"/>
+	<field name="low_longitude" value="10.768889"/>
+	<field name="high_latitude" value="59.946465"/>
+	<field name="high_longitude" value="10.768889"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-10 23:03:07" end="2015-11-10 23:09:19">
+	<field name="low_latitude" value="59.946278"/>
+	<field name="low_longitude" value="10.76913"/>
+	<field name="high_latitude" value="59.94635"/>
+	<field name="high_longitude" value="10.769356"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-10 23:14:19" end="2015-11-10 23:19:10">
+	<field name="low_latitude" value="59.94643"/>
+	<field name="low_longitude" value="10.76865"/>
+	<field name="high_latitude" value="59.946465"/>
+	<field name="high_longitude" value="10.769276"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-10 23:24:11" end="2015-11-10 23:29:20">
+	<field name="low_latitude" value="59.94638"/>
+	<field name="low_longitude" value="10.769282"/>
+	<field name="high_latitude" value="59.946407"/>
+	<field name="high_longitude" value="10.76941"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-10 23:34:56" end="2015-11-10 23:34:56">
+	<field name="low_latitude" value="59.946434"/>
+	<field name="low_longitude" value="10.768894"/>
+	<field name="high_latitude" value="59.946434"/>
+	<field name="high_longitude" value="10.768894"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-10 23:40:14" end="2015-11-10 23:50:05">
+	<field name="low_latitude" value="59.946392"/>
+	<field name="low_longitude" value="10.7694235"/>
+	<field name="high_latitude" value="59.94643"/>
+	<field name="high_longitude" value="10.769573"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-10 23:52:43" end="2015-11-10 23:55:44">
+	<field name="steps" value="22"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-11 00:03:56" end="2015-11-11 00:03:56">
+	<field name="low_latitude" value="59.946693"/>
+	<field name="low_longitude" value="10.768473"/>
+	<field name="high_latitude" value="59.946693"/>
+	<field name="high_longitude" value="10.768473"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-11 00:14:00" end="2015-11-11 00:14:00">
+	<field name="low_latitude" value="59.94668"/>
+	<field name="low_longitude" value="10.768378"/>
+	<field name="high_latitude" value="59.94668"/>
+	<field name="high_longitude" value="10.768378"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-11 03:01:32" end="2015-11-11 03:01:32">
+	<field name="low_latitude" value="59.94667"/>
+	<field name="low_longitude" value="10.76847"/>
+	<field name="high_latitude" value="59.94667"/>
+	<field name="high_longitude" value="10.76847"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-11 03:12:04" end="2015-11-11 03:12:04">
+	<field name="low_latitude" value="59.946663"/>
+	<field name="low_longitude" value="10.768372"/>
+	<field name="high_latitude" value="59.946663"/>
+	<field name="high_longitude" value="10.768372"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-11 03:37:39" end="2015-11-11 03:37:39">
+	<field name="low_latitude" value="59.94667"/>
+	<field name="low_longitude" value="10.768463"/>
+	<field name="high_latitude" value="59.94667"/>
+	<field name="high_longitude" value="10.768463"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-11 03:42:40" end="2015-11-11 03:42:40">
+	<field name="low_latitude" value="59.94664"/>
+	<field name="low_longitude" value="10.768357"/>
+	<field name="high_latitude" value="59.94664"/>
+	<field name="high_longitude" value="10.768357"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-11 03:52:53" end="2015-11-11 03:52:53">
+	<field name="low_latitude" value="59.946674"/>
+	<field name="low_longitude" value="10.768442"/>
+	<field name="high_latitude" value="59.946674"/>
+	<field name="high_longitude" value="10.768442"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-11 04:58:45" end="2015-11-11 04:58:45">
+	<field name="low_latitude" value="59.94668"/>
+	<field name="low_longitude" value="10.76832"/>
+	<field name="high_latitude" value="59.94668"/>
+	<field name="high_longitude" value="10.76832"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-11 05:04:15" end="2015-11-11 05:04:15">
+	<field name="low_latitude" value="59.946686"/>
+	<field name="low_longitude" value="10.768435"/>
+	<field name="high_latitude" value="59.946686"/>
+	<field name="high_longitude" value="10.768435"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-11 06:09:29" end="2015-11-11 06:09:29">
+	<field name="low_latitude" value="59.946663"/>
+	<field name="low_longitude" value="10.768332"/>
+	<field name="high_latitude" value="59.946663"/>
+	<field name="high_longitude" value="10.768332"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-11 06:14:38" end="2015-11-11 06:14:38">
+	<field name="low_latitude" value="59.94667"/>
+	<field name="low_longitude" value="10.768466"/>
+	<field name="high_latitude" value="59.94667"/>
+	<field name="high_longitude" value="10.768466"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-11 06:24:39" end="2015-11-11 06:29:52">
+	<field name="low_latitude" value="59.94666"/>
+	<field name="low_longitude" value="10.76833"/>
+	<field name="high_latitude" value="59.94667"/>
+	<field name="high_longitude" value="10.768457"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-11 07:05:04" end="2015-11-11 07:05:04">
+	<field name="low_latitude" value="59.94668"/>
+	<field name="low_longitude" value="10.768312"/>
+	<field name="high_latitude" value="59.94668"/>
+	<field name="high_longitude" value="10.768312"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-11 07:10:15" end="2015-11-11 07:10:15">
+	<field name="low_latitude" value="59.94667"/>
+	<field name="low_longitude" value="10.768415"/>
+	<field name="high_latitude" value="59.94667"/>
+	<field name="high_longitude" value="10.768415"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-11 07:44:20" end="2015-11-11 07:50:08">
+	<field name="steps" value="44"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-11 07:50:08" end="2015-11-11 07:59:13">
+	<field name="steps" value="61"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-11 07:55:34" end="2015-11-11 07:55:34">
+	<field name="low_latitude" value="59.946358"/>
+	<field name="low_longitude" value="10.769376"/>
+	<field name="high_latitude" value="59.946358"/>
+	<field name="high_longitude" value="10.769376"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-11 08:08:25" end="2015-11-11 08:09:25">
+	<field name="steps" value="17"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-11 08:00:36" end="2015-11-11 08:06:08">
+	<field name="low_latitude" value="59.946453"/>
+	<field name="low_longitude" value="10.76862"/>
+	<field name="high_latitude" value="59.94661"/>
+	<field name="high_longitude" value="10.769333"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-11 08:12:22" end="2015-11-11 08:20:08">
+	<field name="steps" value="489"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-11 08:11:27" end="2015-11-11 08:16:30">
+	<field name="low_latitude" value="59.94665"/>
+	<field name="low_longitude" value="10.768065"/>
+	<field name="high_latitude" value="59.946793"/>
+	<field name="high_longitude" value="10.768319"/>
+</datapoint>
+<datapoint name="com.google.activity.summary" start="2015-11-11 08:15:24" end="2015-11-11 08:20:08">
+	<field name="activity" value="7"/>
+	<field name="duration" value="283717"/>
+	<field name="num_segments" value="1"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-11 08:20:08" end="2015-11-11 08:30:08">
+	<field name="steps" value="1041"/>
+</datapoint>
+<datapoint name="com.google.activity.summary" start="2015-11-11 08:20:08" end="2015-11-11 08:30:08">
+	<field name="activity" value="7"/>
+	<field name="duration" value="600000"/>
+	<field name="num_segments" value="1"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-11 08:30:08" end="2015-11-11 08:37:19">
+	<field name="steps" value="466"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-11 08:34:09" end="2015-11-11 08:39:22">
+	<field name="low_latitude" value="59.955257"/>
+	<field name="low_longitude" value="10.764645"/>
+	<field name="high_latitude" value="59.956257"/>
+	<field name="high_longitude" value="10.764912"/>
+</datapoint>
+<datapoint name="com.google.activity.summary" start="2015-11-11 08:30:08" end="2015-11-11 08:34:00">
+	<field name="activity" value="7"/>
+	<field name="duration" value="232027"/>
+	<field name="num_segments" value="1"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-11 08:49:36" end="2015-11-11 08:50:08">
+	<field name="steps" value="0"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-11 08:50:08" end="2015-11-11 08:59:01">
+	<field name="steps" value="117"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-11 09:01:54" end="2015-11-11 09:02:54">
+	<field name="steps" value="1"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-11 09:07:34" end="2015-11-11 09:07:34">
+	<field name="low_latitude" value="59.955086"/>
+	<field name="low_longitude" value="10.764563"/>
+	<field name="high_latitude" value="59.955086"/>
+	<field name="high_longitude" value="10.764563"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-11 09:13:02" end="2015-11-11 09:20:08">
+	<field name="steps" value="7"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-11 09:20:08" end="2015-11-11 09:27:53">
+	<field name="steps" value="2"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-11 09:38:30" end="2015-11-11 09:39:30">
+	<field name="steps" value="1"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-11 09:34:22" end="2015-11-11 09:39:11">
+	<field name="low_latitude" value="59.95518"/>
+	<field name="low_longitude" value="10.764585"/>
+	<field name="high_latitude" value="59.956318"/>
+	<field name="high_longitude" value="10.764855"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-11 09:50:06" end="2015-11-11 09:50:08">
+	<field name="steps" value="0"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-11 09:44:17" end="2015-11-11 09:49:11">
+	<field name="low_latitude" value="59.955276"/>
+	<field name="low_longitude" value="10.764681"/>
+	<field name="high_latitude" value="59.955704"/>
+	<field name="high_longitude" value="10.764872"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-11 09:50:08" end="2015-11-11 09:58:13">
+	<field name="steps" value="159"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-11 09:54:37" end="2015-11-11 09:54:37">
+	<field name="low_latitude" value="59.95539"/>
+	<field name="low_longitude" value="10.764716"/>
+	<field name="high_latitude" value="59.95539"/>
+	<field name="high_longitude" value="10.764716"/>
+</datapoint>
+<datapoint name="com.google.activity.summary" start="2015-11-11 09:56:09" end="2015-11-11 09:58:13">
+	<field name="activity" value="7"/>
+	<field name="duration" value="124697"/>
+	<field name="num_segments" value="1"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-11 10:03:24" end="2015-11-11 10:04:24">
+	<field name="steps" value="1"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-11 10:05:15" end="2015-11-11 10:05:15">
+	<field name="low_latitude" value="59.95625"/>
+	<field name="low_longitude" value="10.764623"/>
+	<field name="high_latitude" value="59.95625"/>
+	<field name="high_longitude" value="10.764623"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-11 10:29:34" end="2015-11-11 10:30:08">
+	<field name="steps" value="0"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-11 10:30:08" end="2015-11-11 10:30:34">
+	<field name="steps" value="0"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-11 10:56:32" end="2015-11-11 10:57:32">
+	<field name="steps" value="1"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-11 11:03:06" end="2015-11-11 11:10:08">
+	<field name="steps" value="109"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-11 11:10:08" end="2015-11-11 11:11:19">
+	<field name="steps" value="50"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-11 11:39:32" end="2015-11-11 11:40:08">
+	<field name="steps" value="0"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-11 11:40:08" end="2015-11-11 11:40:32">
+	<field name="steps" value="0"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-11 12:13:44" end="2015-11-11 12:18:08">
+	<field name="steps" value="132"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-11 12:20:25" end="2015-11-11 12:29:50">
+	<field name="steps" value="37"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-11 12:26:58" end="2015-11-11 12:26:58">
+	<field name="low_latitude" value="59.95551"/>
+	<field name="low_longitude" value="10.764871"/>
+	<field name="high_latitude" value="59.95551"/>
+	<field name="high_longitude" value="10.764871"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-11 12:34:06" end="2015-11-11 12:40:08">
+	<field name="steps" value="14"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-11 12:32:16" end="2015-11-11 12:37:17">
+	<field name="low_latitude" value="59.955532"/>
+	<field name="low_longitude" value="10.764872"/>
+	<field name="high_latitude" value="59.955597"/>
+	<field name="high_longitude" value="10.764926"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-11 12:40:08" end="2015-11-11 12:49:51">
+	<field name="steps" value="45"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-11 12:42:16" end="2015-11-11 12:47:10">
+	<field name="low_latitude" value="59.955166"/>
+	<field name="low_longitude" value="10.764831"/>
+	<field name="high_latitude" value="59.955593"/>
+	<field name="high_longitude" value="10.764907"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-11 12:55:30" end="2015-11-11 12:58:22">
+	<field name="steps" value="136"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-11 12:57:04" end="2015-11-11 12:57:04">
+	<field name="low_latitude" value="59.955006"/>
+	<field name="low_longitude" value="10.764833"/>
+	<field name="high_latitude" value="59.955006"/>
+	<field name="high_longitude" value="10.764833"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-11 13:02:15" end="2015-11-11 13:02:15">
+	<field name="low_latitude" value="59.95623"/>
+	<field name="low_longitude" value="10.764574"/>
+	<field name="high_latitude" value="59.95623"/>
+	<field name="high_longitude" value="10.764574"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-11 13:27:11" end="2015-11-11 13:29:06">
+	<field name="steps" value="69"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-11 13:32:09" end="2015-11-11 13:33:17">
+	<field name="steps" value="34"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-11 13:33:17" end="2015-11-11 13:33:17">
+	<field name="low_latitude" value="59.956223"/>
+	<field name="low_longitude" value="10.764683"/>
+	<field name="high_latitude" value="59.956223"/>
+	<field name="high_longitude" value="10.764683"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-11 13:51:02" end="2015-11-11 13:58:36">
+	<field name="steps" value="163"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-11 13:53:06" end="2015-11-11 13:58:04">
+	<field name="low_latitude" value="59.956142"/>
+	<field name="low_longitude" value="10.764599"/>
+	<field name="high_latitude" value="59.95626"/>
+	<field name="high_longitude" value="10.764628"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-11 14:04:53" end="2015-11-11 14:05:53">
+	<field name="steps" value="7"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-11 14:06:06" end="2015-11-11 14:06:06">
+	<field name="low_latitude" value="59.956234"/>
+	<field name="low_longitude" value="10.764624"/>
+	<field name="high_latitude" value="59.956234"/>
+	<field name="high_longitude" value="10.764624"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-11 14:12:52" end="2015-11-11 14:13:52">
+	<field name="steps" value="1"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-11 14:34:39" end="2015-11-11 14:40:08">
+	<field name="steps" value="55"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-11 14:40:08" end="2015-11-11 14:40:09">
+	<field name="steps" value="0"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-11 14:53:06" end="2015-11-11 14:58:12">
+	<field name="steps" value="11"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-11 15:01:55" end="2015-11-11 15:02:55">
+	<field name="steps" value="1"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-11 15:17:43" end="2015-11-11 15:20:08">
+	<field name="steps" value="72"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-11 15:20:08" end="2015-11-11 15:26:19">
+	<field name="steps" value="410"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-11 15:20:42" end="2015-11-11 15:20:42">
+	<field name="low_latitude" value="59.955883"/>
+	<field name="low_longitude" value="10.763244"/>
+	<field name="high_latitude" value="59.955883"/>
+	<field name="high_longitude" value="10.763244"/>
+</datapoint>
+<datapoint name="com.google.activity.summary" start="2015-11-11 15:20:27" end="2015-11-11 15:24:30">
+	<field name="activity" value="7"/>
+	<field name="duration" value="242888"/>
+	<field name="num_segments" value="1"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-11 15:31:04" end="2015-11-11 15:38:02">
+	<field name="steps" value="29"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-11 15:41:23" end="2015-11-11 15:50:08">
+	<field name="steps" value="256"/>
+</datapoint>
+<datapoint name="com.google.activity.summary" start="2015-11-11 15:46:30" end="2015-11-11 15:49:49">
+	<field name="activity" value="7"/>
+	<field name="duration" value="199755"/>
+	<field name="num_segments" value="1"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-11 15:50:08" end="2015-11-11 16:00:00">
+	<field name="steps" value="287"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-11 16:08:41" end="2015-11-11 16:10:08">
+	<field name="steps" value="41"/>
+</datapoint>
+<datapoint name="com.google.activity.summary" start="2015-11-11 16:09:41" end="2015-11-11 16:10:08">
+	<field name="activity" value="7"/>
+	<field name="duration" value="26532"/>
+	<field name="num_segments" value="1"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-11 16:10:08" end="2015-11-11 16:20:08">
+	<field name="steps" value="805"/>
+</datapoint>
+<datapoint name="com.google.activity.summary" start="2015-11-11 16:10:08" end="2015-11-11 16:19:29">
+	<field name="activity" value="7"/>
+	<field name="duration" value="561142"/>
+	<field name="num_segments" value="1"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-11 16:20:08" end="2015-11-11 16:28:54">
+	<field name="steps" value="304"/>
+</datapoint>
+<datapoint name="com.google.activity.summary" start="2015-11-11 16:21:06" end="2015-11-11 16:22:57">
+	<field name="activity" value="7"/>
+	<field name="duration" value="110879"/>
+	<field name="num_segments" value="1"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-11 16:31:24" end="2015-11-11 16:38:00">
+	<field name="steps" value="5"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-11 16:37:39" end="2015-11-11 16:37:39">
+	<field name="low_latitude" value="59.946465"/>
+	<field name="low_longitude" value="10.76885"/>
+	<field name="high_latitude" value="59.946465"/>
+	<field name="high_longitude" value="10.76885"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-11 16:41:36" end="2015-11-11 16:42:36">
+	<field name="steps" value="27"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-11 16:55:42" end="2015-11-11 16:55:42">
+	<field name="low_latitude" value="59.94645"/>
+	<field name="low_longitude" value="10.768952"/>
+	<field name="high_latitude" value="59.94645"/>
+	<field name="high_longitude" value="10.768952"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-11 17:00:59" end="2015-11-11 17:00:59">
+	<field name="low_latitude" value="59.94649"/>
+	<field name="low_longitude" value="10.769054"/>
+	<field name="high_latitude" value="59.94649"/>
+	<field name="high_longitude" value="10.769054"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-11 17:12:24" end="2015-11-11 17:17:24">
+	<field name="low_latitude" value="59.946476"/>
+	<field name="low_longitude" value="10.768749"/>
+	<field name="high_latitude" value="59.946487"/>
+	<field name="high_longitude" value="10.769117"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-11 17:22:30" end="2015-11-11 17:27:54">
+	<field name="low_latitude" value="59.946445"/>
+	<field name="low_longitude" value="10.768648"/>
+	<field name="high_latitude" value="59.946507"/>
+	<field name="high_longitude" value="10.768942"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-11 17:32:55" end="2015-11-11 17:37:55">
+	<field name="low_latitude" value="59.94649"/>
+	<field name="low_longitude" value="10.768834"/>
+	<field name="high_latitude" value="59.94653"/>
+	<field name="high_longitude" value="10.769093"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-11 17:43:12" end="2015-11-11 17:43:12">
+	<field name="low_latitude" value="59.94641"/>
+	<field name="low_longitude" value="10.769377"/>
+	<field name="high_latitude" value="59.94641"/>
+	<field name="high_longitude" value="10.769377"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-11 17:53:22" end="2015-11-11 17:58:23">
+	<field name="low_latitude" value="59.946407"/>
+	<field name="low_longitude" value="10.768785"/>
+	<field name="high_latitude" value="59.946476"/>
+	<field name="high_longitude" value="10.769111"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-11 18:03:23" end="2015-11-11 18:03:23">
+	<field name="low_latitude" value="59.9465"/>
+	<field name="low_longitude" value="10.76916"/>
+	<field name="high_latitude" value="59.9465"/>
+	<field name="high_longitude" value="10.76916"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-11 20:08:20" end="2015-11-11 20:08:20">
+	<field name="low_latitude" value="59.94664"/>
+	<field name="low_longitude" value="10.768433"/>
+	<field name="high_latitude" value="59.94664"/>
+	<field name="high_longitude" value="10.768433"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-11 20:17:03" end="2015-11-11 20:17:03">
+	<field name="low_latitude" value="59.946415"/>
+	<field name="low_longitude" value="10.768934"/>
+	<field name="high_latitude" value="59.946415"/>
+	<field name="high_longitude" value="10.768934"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-11 20:22:16" end="2015-11-11 20:27:32">
+	<field name="low_latitude" value="59.94644"/>
+	<field name="low_longitude" value="10.7686615"/>
+	<field name="high_latitude" value="59.946526"/>
+	<field name="high_longitude" value="10.769155"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-11 20:32:21" end="2015-11-11 20:37:32">
+	<field name="low_latitude" value="59.946396"/>
+	<field name="low_longitude" value="10.769076"/>
+	<field name="high_latitude" value="59.946465"/>
+	<field name="high_longitude" value="10.769391"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-11 20:43:07" end="2015-11-11 20:48:21">
+	<field name="low_latitude" value="59.946342"/>
+	<field name="low_longitude" value="10.768942"/>
+	<field name="high_latitude" value="59.9464"/>
+	<field name="high_longitude" value="10.769428"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-11 20:53:22" end="2015-11-11 20:58:22">
+	<field name="low_latitude" value="59.94643"/>
+	<field name="low_longitude" value="10.768595"/>
+	<field name="high_latitude" value="59.94654"/>
+	<field name="high_longitude" value="10.769311"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-11 21:04:00" end="2015-11-11 21:09:23">
+	<field name="low_latitude" value="59.946407"/>
+	<field name="low_longitude" value="10.769073"/>
+	<field name="high_latitude" value="59.94641"/>
+	<field name="high_longitude" value="10.769503"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-11 21:14:12" end="2015-11-11 21:19:46">
+	<field name="low_latitude" value="59.94654"/>
+	<field name="low_longitude" value="10.768628"/>
+	<field name="high_latitude" value="59.94654"/>
+	<field name="high_longitude" value="10.7688465"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-11 21:25:23" end="2015-11-11 21:25:23">
+	<field name="low_latitude" value="59.94633"/>
+	<field name="low_longitude" value="10.769436"/>
+	<field name="high_latitude" value="59.94633"/>
+	<field name="high_longitude" value="10.769436"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-11 21:35:47" end="2015-11-11 21:35:47">
+	<field name="low_latitude" value="59.946484"/>
+	<field name="low_longitude" value="10.768818"/>
+	<field name="high_latitude" value="59.946484"/>
+	<field name="high_longitude" value="10.768818"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-11 21:41:22" end="2015-11-11 21:46:22">
+	<field name="low_latitude" value="59.946526"/>
+	<field name="low_longitude" value="10.768841"/>
+	<field name="high_latitude" value="59.94653"/>
+	<field name="high_longitude" value="10.768973"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-11 21:51:22" end="2015-11-11 21:56:23">
+	<field name="low_latitude" value="59.946365"/>
+	<field name="low_longitude" value="10.76928"/>
+	<field name="high_latitude" value="59.94644"/>
+	<field name="high_longitude" value="10.769444"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-11 22:01:25" end="2015-11-11 22:06:20">
+	<field name="low_latitude" value="59.946316"/>
+	<field name="low_longitude" value="10.768995"/>
+	<field name="high_latitude" value="59.9465"/>
+	<field name="high_longitude" value="10.769287"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-11 22:12:00" end="2015-11-11 22:17:01">
+	<field name="low_latitude" value="59.94633"/>
+	<field name="low_longitude" value="10.768647"/>
+	<field name="high_latitude" value="59.94647"/>
+	<field name="high_longitude" value="10.769322"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-11 22:22:01" end="2015-11-11 22:29:56">
+	<field name="low_latitude" value="59.9464"/>
+	<field name="low_longitude" value="10.769177"/>
+	<field name="high_latitude" value="59.946404"/>
+	<field name="high_longitude" value="10.769451"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-11 22:39:31" end="2015-11-11 22:39:31">
+	<field name="low_latitude" value="59.946503"/>
+	<field name="low_longitude" value="10.768832"/>
+	<field name="high_latitude" value="59.946503"/>
+	<field name="high_longitude" value="10.768832"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-11 22:45:57" end="2015-11-11 22:45:57">
+	<field name="low_latitude" value="59.946507"/>
+	<field name="low_longitude" value="10.768729"/>
+	<field name="high_latitude" value="59.946507"/>
+	<field name="high_longitude" value="10.768729"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-11 22:52:43" end="2015-11-11 22:58:15">
+	<field name="low_latitude" value="59.946518"/>
+	<field name="low_longitude" value="10.7687845"/>
+	<field name="high_latitude" value="59.946568"/>
+	<field name="high_longitude" value="10.768813"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-11 23:03:46" end="2015-11-11 23:09:12">
+	<field name="low_latitude" value="59.94647"/>
+	<field name="low_longitude" value="10.768675"/>
+	<field name="high_latitude" value="59.94656"/>
+	<field name="high_longitude" value="10.76913"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-11 23:14:17" end="2015-11-11 23:19:21">
+	<field name="low_latitude" value="59.946404"/>
+	<field name="low_longitude" value="10.76871"/>
+	<field name="high_latitude" value="59.94647"/>
+	<field name="high_longitude" value="10.768934"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-11 23:24:21" end="2015-11-11 23:29:21">
+	<field name="low_latitude" value="59.94654"/>
+	<field name="low_longitude" value="10.768696"/>
+	<field name="high_latitude" value="59.946587"/>
+	<field name="high_longitude" value="10.768725"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-11 23:33:56" end="2015-11-11 23:33:56">
+	<field name="low_latitude" value="59.946533"/>
+	<field name="low_longitude" value="10.768835"/>
+	<field name="high_latitude" value="59.946533"/>
+	<field name="high_longitude" value="10.768835"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-11 23:42:00" end="2015-11-11 23:42:00">
+	<field name="low_latitude" value="59.946564"/>
+	<field name="low_longitude" value="10.768651"/>
+	<field name="high_latitude" value="59.946564"/>
+	<field name="high_longitude" value="10.768651"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-11 23:54:10" end="2015-11-11 23:57:47">
+	<field name="steps" value="12"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-11 23:57:14" end="2015-11-11 23:57:14">
+	<field name="low_latitude" value="59.946472"/>
+	<field name="low_longitude" value="10.768811"/>
+	<field name="high_latitude" value="59.946472"/>
+	<field name="high_longitude" value="10.768811"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-12 00:02:30" end="2015-11-12 00:02:30">
+	<field name="low_latitude" value="59.94667"/>
+	<field name="low_longitude" value="10.768365"/>
+	<field name="high_latitude" value="59.94667"/>
+	<field name="high_longitude" value="10.768365"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-12 00:32:38" end="2015-11-12 00:32:38">
+	<field name="low_latitude" value="59.94667"/>
+	<field name="low_longitude" value="10.768455"/>
+	<field name="high_latitude" value="59.94667"/>
+	<field name="high_longitude" value="10.768455"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-12 00:53:03" end="2015-11-12 00:53:03">
+	<field name="low_latitude" value="59.94667"/>
+	<field name="low_longitude" value="10.768356"/>
+	<field name="high_latitude" value="59.94667"/>
+	<field name="high_longitude" value="10.768356"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-12 01:03:04" end="2015-11-12 01:03:04">
+	<field name="low_latitude" value="59.946674"/>
+	<field name="low_longitude" value="10.768457"/>
+	<field name="high_latitude" value="59.946674"/>
+	<field name="high_longitude" value="10.768457"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-12 02:18:23" end="2015-11-12 02:18:23">
+	<field name="low_latitude" value="59.94667"/>
+	<field name="low_longitude" value="10.768366"/>
+	<field name="high_latitude" value="59.94667"/>
+	<field name="high_longitude" value="10.768366"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-12 02:54:22" end="2015-11-12 02:54:22">
+	<field name="low_latitude" value="59.946663"/>
+	<field name="low_longitude" value="10.768481"/>
+	<field name="high_latitude" value="59.946663"/>
+	<field name="high_longitude" value="10.768481"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-12 03:20:24" end="2015-11-12 03:25:25">
+	<field name="low_latitude" value="59.946682"/>
+	<field name="low_longitude" value="10.768449"/>
+	<field name="high_latitude" value="59.946705"/>
+	<field name="high_longitude" value="10.768525"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-12 04:46:09" end="2015-11-12 04:46:09">
+	<field name="low_latitude" value="59.946697"/>
+	<field name="low_longitude" value="10.768352"/>
+	<field name="high_latitude" value="59.946697"/>
+	<field name="high_longitude" value="10.768352"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-12 05:33:02" end="2015-11-12 05:33:02">
+	<field name="low_latitude" value="59.946667"/>
+	<field name="low_longitude" value="10.768416"/>
+	<field name="high_latitude" value="59.946667"/>
+	<field name="high_longitude" value="10.768416"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-12 07:48:20" end="2015-11-12 07:48:20">
+	<field name="low_latitude" value="59.94659"/>
+	<field name="low_longitude" value="10.768468"/>
+	<field name="high_latitude" value="59.94659"/>
+	<field name="high_longitude" value="10.768468"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-12 07:54:39" end="2015-11-12 07:59:11">
+	<field name="low_latitude" value="59.946285"/>
+	<field name="low_longitude" value="10.768447"/>
+	<field name="high_latitude" value="59.94661"/>
+	<field name="high_longitude" value="10.768976"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-12 08:05:38" end="2015-11-12 08:05:38">
+	<field name="low_latitude" value="59.94629"/>
+	<field name="low_longitude" value="10.7690935"/>
+	<field name="high_latitude" value="59.94629"/>
+	<field name="high_longitude" value="10.7690935"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-12 08:12:17" end="2015-11-12 08:19:52">
+	<field name="steps" value="11"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-12 08:15:07" end="2015-11-12 08:15:07">
+	<field name="low_latitude" value="59.94659"/>
+	<field name="low_longitude" value="10.7684965"/>
+	<field name="high_latitude" value="59.94659"/>
+	<field name="high_longitude" value="10.7684965"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-12 08:24:09" end="2015-11-12 08:25:09">
+	<field name="steps" value="1"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-12 08:21:00" end="2015-11-12 08:26:36">
+	<field name="low_latitude" value="59.94637"/>
+	<field name="low_longitude" value="10.769234"/>
+	<field name="high_latitude" value="59.94653"/>
+	<field name="high_longitude" value="10.769555"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-12 08:35:24" end="2015-11-12 08:40:08">
+	<field name="steps" value="55"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-12 08:31:00" end="2015-11-12 08:38:48">
+	<field name="low_latitude" value="59.946358"/>
+	<field name="low_longitude" value="10.769164"/>
+	<field name="high_latitude" value="59.9465"/>
+	<field name="high_longitude" value="10.769219"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-12 08:40:08" end="2015-11-12 08:50:08">
+	<field name="steps" value="920"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-12 08:47:45" end="2015-11-12 08:47:45">
+	<field name="low_latitude" value="59.949955"/>
+	<field name="low_longitude" value="10.768943"/>
+	<field name="high_latitude" value="59.949955"/>
+	<field name="high_longitude" value="10.768943"/>
+</datapoint>
+<datapoint name="com.google.activity.summary" start="2015-11-12 08:41:35" end="2015-11-12 08:50:08">
+	<field name="activity" value="7"/>
+	<field name="duration" value="512792"/>
+	<field name="num_segments" value="1"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-12 08:50:08" end="2015-11-12 08:59:14">
+	<field name="steps" value="911"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-12 08:56:13" end="2015-11-12 08:56:13">
+	<field name="low_latitude" value="59.955368"/>
+	<field name="low_longitude" value="10.766239"/>
+	<field name="high_latitude" value="59.955368"/>
+	<field name="high_longitude" value="10.766239"/>
+</datapoint>
+<datapoint name="com.google.activity.summary" start="2015-11-12 08:50:08" end="2015-11-12 08:59:14">
+	<field name="activity" value="7"/>
+	<field name="duration" value="546454"/>
+	<field name="num_segments" value="1"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-12 09:06:40" end="2015-11-12 09:09:44">
+	<field name="steps" value="92"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-12 09:00:37" end="2015-11-12 09:00:37">
+	<field name="low_latitude" value="59.95455"/>
+	<field name="low_longitude" value="10.764711"/>
+	<field name="high_latitude" value="59.95455"/>
+	<field name="high_longitude" value="10.764711"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-12 09:12:31" end="2015-11-12 09:12:31">
+	<field name="low_latitude" value="59.956272"/>
+	<field name="low_longitude" value="10.764623"/>
+	<field name="high_latitude" value="59.956272"/>
+	<field name="high_longitude" value="10.764623"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-12 09:29:34" end="2015-11-12 09:30:08">
+	<field name="steps" value="16"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-12 09:30:08" end="2015-11-12 09:32:19">
+	<field name="steps" value="63"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-12 09:40:30" end="2015-11-12 09:41:30">
+	<field name="steps" value="1"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-12 09:55:09" end="2015-11-12 09:56:09">
+	<field name="steps" value="1"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-12 10:00:10" end="2015-11-12 10:06:57">
+	<field name="steps" value="9"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-12 10:26:58" end="2015-11-12 10:27:58">
+	<field name="steps" value="1"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-12 10:57:41" end="2015-11-12 10:59:10">
+	<field name="steps" value="47"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-12 11:02:03" end="2015-11-12 11:08:58">
+	<field name="steps" value="87"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-12 11:49:19" end="2015-11-12 11:50:08">
+	<field name="steps" value="0"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-12 11:50:08" end="2015-11-12 11:50:19">
+	<field name="steps" value="0"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-12 12:24:48" end="2015-11-12 12:30:08">
+	<field name="steps" value="168"/>
+</datapoint>
+<datapoint name="com.google.activity.summary" start="2015-11-12 12:25:48" end="2015-11-12 12:27:27">
+	<field name="activity" value="7"/>
+	<field name="duration" value="99147"/>
+	<field name="num_segments" value="1"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-12 12:30:08" end="2015-11-12 12:40:08">
+	<field name="steps" value="12"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-12 12:35:55" end="2015-11-12 12:35:55">
+	<field name="low_latitude" value="59.95548"/>
+	<field name="low_longitude" value="10.76487"/>
+	<field name="high_latitude" value="59.95548"/>
+	<field name="high_longitude" value="10.76487"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-12 12:40:08" end="2015-11-12 12:50:08">
+	<field name="steps" value="53"/>
+</datapoint>
+<datapoint name="com.google.heart_rate.summary" start="2015-11-12 12:42:22" end="2015-11-12 12:42:35">
+	<field name="average" value="67.5"/>
+	<field name="max" value="70.0"/>
+	<field name="min" value="65.0"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-12 12:40:53" end="2015-11-12 12:40:53">
+	<field name="low_latitude" value="59.955547"/>
+	<field name="low_longitude" value="10.764889"/>
+	<field name="high_latitude" value="59.955547"/>
+	<field name="high_longitude" value="10.764889"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-12 12:50:08" end="2015-11-12 12:53:32">
+	<field name="steps" value="3"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-12 12:51:23" end="2015-11-12 12:56:56">
+	<field name="low_latitude" value="59.955227"/>
+	<field name="low_longitude" value="10.764816"/>
+	<field name="high_latitude" value="59.955578"/>
+	<field name="high_longitude" value="10.764882"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-12 13:02:25" end="2015-11-12 13:05:25">
+	<field name="steps" value="90"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-12 13:05:26" end="2015-11-12 13:05:26">
+	<field name="low_latitude" value="59.954655"/>
+	<field name="low_longitude" value="10.764797"/>
+	<field name="high_latitude" value="59.954655"/>
+	<field name="high_longitude" value="10.764797"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-12 13:10:24" end="2015-11-12 13:10:24">
+	<field name="low_latitude" value="59.956272"/>
+	<field name="low_longitude" value="10.76462"/>
+	<field name="high_latitude" value="59.956272"/>
+	<field name="high_longitude" value="10.76462"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-12 13:47:32" end="2015-11-12 13:48:58">
+	<field name="steps" value="43"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-12 13:54:07" end="2015-11-12 13:57:16">
+	<field name="steps" value="90"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-12 13:59:52" end="2015-11-12 13:59:52">
+	<field name="low_latitude" value="59.95627"/>
+	<field name="low_longitude" value="10.764616"/>
+	<field name="high_latitude" value="59.95627"/>
+	<field name="high_longitude" value="10.764616"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-12 14:00:11" end="2015-11-12 14:01:11">
+	<field name="steps" value="2"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-12 14:22:08" end="2015-11-12 14:28:22">
+	<field name="steps" value="2"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-12 14:43:42" end="2015-11-12 14:50:08">
+	<field name="steps" value="230"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-12 14:47:59" end="2015-11-12 14:47:59">
+	<field name="low_latitude" value="59.955494"/>
+	<field name="low_longitude" value="10.764838"/>
+	<field name="high_latitude" value="59.955494"/>
+	<field name="high_longitude" value="10.764838"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-12 14:50:08" end="2015-11-12 14:50:47">
+	<field name="steps" value="35"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-12 14:52:27" end="2015-11-12 14:52:27">
+	<field name="low_latitude" value="59.956245"/>
+	<field name="low_longitude" value="10.764625"/>
+	<field name="high_latitude" value="59.956245"/>
+	<field name="high_longitude" value="10.764625"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-12 15:06:27" end="2015-11-12 15:07:27">
+	<field name="steps" value="1"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-12 15:29:47" end="2015-11-12 15:30:08">
+	<field name="steps" value="0"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-12 15:30:08" end="2015-11-12 15:30:47">
+	<field name="steps" value="0"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-12 15:56:12" end="2015-11-12 15:57:12">
+	<field name="steps" value="1"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-12 16:01:36" end="2015-11-12 16:10:08">
+	<field name="steps" value="276"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-12 16:04:45" end="2015-11-12 16:09:18">
+	<field name="low_latitude" value="59.9562"/>
+	<field name="low_longitude" value="10.764635"/>
+	<field name="high_latitude" value="59.95629"/>
+	<field name="high_longitude" value="10.764686"/>
+</datapoint>
+<datapoint name="com.google.activity.summary" start="2015-11-12 16:09:02" end="2015-11-12 16:10:08">
+	<field name="activity" value="7"/>
+	<field name="duration" value="65598"/>
+	<field name="num_segments" value="1"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-12 16:10:08" end="2015-11-12 16:20:08">
+	<field name="steps" value="1088"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-12 16:19:42" end="2015-11-12 16:19:42">
+	<field name="low_latitude" value="59.95028"/>
+	<field name="low_longitude" value="10.76554"/>
+	<field name="high_latitude" value="59.95028"/>
+	<field name="high_longitude" value="10.76554"/>
+</datapoint>
+<datapoint name="com.google.activity.summary" start="2015-11-12 16:10:08" end="2015-11-12 16:20:08">
+	<field name="activity" value="7"/>
+	<field name="duration" value="600000"/>
+	<field name="num_segments" value="1"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-12 16:20:08" end="2015-11-12 16:29:29">
+	<field name="steps" value="823"/>
+</datapoint>
+<datapoint name="com.google.activity.summary" start="2015-11-12 16:20:08" end="2015-11-12 16:29:14">
+	<field name="activity" value="7"/>
+	<field name="duration" value="529573"/>
+	<field name="num_segments" value="2"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-12 16:30:17" end="2015-11-12 16:40:08">
+	<field name="steps" value="137"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-12 16:32:16" end="2015-11-12 16:39:50">
+	<field name="low_latitude" value="59.94652"/>
+	<field name="low_longitude" value="10.768457"/>
+	<field name="high_latitude" value="59.946682"/>
+	<field name="high_longitude" value="10.768876"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-12 16:40:08" end="2015-11-12 16:49:09">
+	<field name="steps" value="53"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-12 16:46:04" end="2015-11-12 16:46:04">
+	<field name="low_latitude" value="59.946438"/>
+	<field name="low_longitude" value="10.769198"/>
+	<field name="high_latitude" value="59.946438"/>
+	<field name="high_longitude" value="10.769198"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-12 16:50:39" end="2015-11-12 16:51:39">
+	<field name="steps" value="30"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-12 16:51:51" end="2015-11-12 16:56:56">
+	<field name="low_latitude" value="59.946297"/>
+	<field name="low_longitude" value="10.769051"/>
+	<field name="high_latitude" value="59.94639"/>
+	<field name="high_longitude" value="10.769407"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-12 17:04:34" end="2015-11-12 17:10:08">
+	<field name="steps" value="51"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-12 17:02:07" end="2015-11-12 17:06:37">
+	<field name="low_latitude" value="59.946312"/>
+	<field name="low_longitude" value="10.769183"/>
+	<field name="high_latitude" value="59.94633"/>
+	<field name="high_longitude" value="10.769455"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-12 17:10:08" end="2015-11-12 17:13:41">
+	<field name="steps" value="5"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-12 17:11:19" end="2015-11-12 17:15:52">
+	<field name="low_latitude" value="59.946396"/>
+	<field name="low_longitude" value="10.769085"/>
+	<field name="high_latitude" value="59.94642"/>
+	<field name="high_longitude" value="10.769426"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-12 17:22:59" end="2015-11-12 17:23:59">
+	<field name="steps" value="1"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-12 17:22:21" end="2015-11-12 17:30:06">
+	<field name="low_latitude" value="59.946514"/>
+	<field name="low_longitude" value="10.768579"/>
+	<field name="high_latitude" value="59.946568"/>
+	<field name="high_longitude" value="10.76873"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-12 17:30:11" end="2015-11-12 17:40:08">
+	<field name="steps" value="35"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-12 17:35:24" end="2015-11-12 17:35:24">
+	<field name="low_latitude" value="59.946472"/>
+	<field name="low_longitude" value="10.76891"/>
+	<field name="high_latitude" value="59.946472"/>
+	<field name="high_longitude" value="10.76891"/>
+</datapoint>
+<datapoint name="com.google.step_count.delta" start="2015-11-12 17:40:08" end="2015-11-12 17:42:41">
+	<field name="steps" value="78"/>
+</datapoint>
+<datapoint name="com.google.location.bounding_box" start="2015-11-12 17:40:24" end="2015-11-12 17:45:13">
+	<field name="low_latitude" value="59.94641"/>
+	<field name="low_longitude" value="10.768476"/>
+	<field name="high_latitude" value="59.946564"/>
+	<field name="high_longitude" value="10.769104"/>
+</datapoint>
+</data>
